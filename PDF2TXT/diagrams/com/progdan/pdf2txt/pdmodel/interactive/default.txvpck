@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid13e8je27rqzlqe27ryob3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id4b47fe27rqzlqe27rslu2"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidfu1k3e27rqzlqe27ryob3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idhxwg2e27rqzlqe27rslss"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid56jzee27rqzlqe27ryob3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjh44we27rqzlqe27rslui"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid1aoxpe27rqzlqe27ryob3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidqn3be27rqzlqe27ryob3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidhokwqe27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idcjd4qe27rqzlqe27rsllu"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidehvmye27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idcbw6ze27rqzlqe27rslsc"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid4mrq2e27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgch7ae27rqzlqe27rslpb"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid3rxcie27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidgm217e27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgi7xbe27rqzlqe27rslov"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkiddkbs5e27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkidf10rye27rqzlqe27ryobj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id6cl04e27rqzlqe27rslrw.linkid7rtiie27rqzlqe27ryoby">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id7i17te27rqzlqe27rsln4"/>
+        <participant role="Client" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id6cl04e27rqzlqe27rslrw">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id4b47fe27rqzlqe27rslu2">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.documentnavigation"/>
+        </reference>
+        <reference df-class-name="reference10" referencedUin="design:view:::idcbw6ze27rqzlqe27rslsc">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.action"/>
+        </reference>
+        <reference df-class-name="reference15" referencedUin="design:view:::id5lbnqe27rqzlqe27rsluy">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.viewerpreferences"/>
+        </reference>
+        <reference df-class-name="reference16" referencedUin="design:view:::idhxwg2e27rqzlqe27rslss">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.annotation"/>
+        </reference>
+        <reference df-class-name="reference23" referencedUin="design:view:::idjh44we27rqzlqe27rslui">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.form"/>
+        </reference>
+        <reference df-class-name="reference26" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel.interactive.digitalsignature"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

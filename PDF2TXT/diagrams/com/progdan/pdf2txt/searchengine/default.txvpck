@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="idn8eee27rqzlqe27rslx4">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id2vph1e27rqzlqe27rslxz">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.searchengine.lucene"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

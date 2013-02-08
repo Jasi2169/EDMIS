@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idbqjbce27rqzlqe27rslr1.linkidhm43le27rqzlqe27ryoa8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbqjbce27rqzlqe27rslr1.linkidgldike27rqzlqe27ryoa8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbqjbce27rqzlqe27rslr1.linkidb6v64e27rqzlqe27ryoa8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbqjbce27rqzlqe27rslr1.linkide81zle27rqzlqe27ryoa8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idh9dr3e27rqzlqe27rslyf"/>
+        <participant role="Client" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbqjbce27rqzlqe27rslr1.linkidcd4gde27rqzlqe27ryoa8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idbqjbce27rqzlqe27rslr1">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

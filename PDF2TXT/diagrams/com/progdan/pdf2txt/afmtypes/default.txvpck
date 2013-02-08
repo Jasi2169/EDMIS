@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idd3prne27rqzlqe27rsla4.linkidekj1he27rqzlqe27rynn8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idh9dr3e27rqzlqe27rslyf"/>
+        <participant role="Client" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idd3prne27rqzlqe27rsla4.linkidc9b2ye27rqzlqe27rynn8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idd3prne27rqzlqe27rsla4.linkid95lzwe27rqzlqe27rynn8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idd3prne27rqzlqe27rsla4.linkidig2jfe27rqzlqe27rynn8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idd3prne27rqzlqe27rsla4.linkid8c40ue27rqzlqe27rynn8">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idd3prne27rqzlqe27rsla4">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.CharMetric">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference63" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.Ligature">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference64" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.TrackKern">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference65" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.Composite">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference66" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.KernPair">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference67" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.CompositePart">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference68" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.afmtypes.FontMetric">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

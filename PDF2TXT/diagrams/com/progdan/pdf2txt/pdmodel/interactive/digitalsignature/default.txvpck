@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkidc0t1me27rqzlqe27ryod9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkidghs2le27rqzlqe27ryod9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkid4gcl9e27rqzlqe27ryod9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkid4gxuae27rqzlqe27ryodp">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idcjd4qe27rqzlqe27rsllu"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkidj21i4e27rqzlqe27ryodp">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkid3xekae27rqzlqe27ryodp">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id7i17te27rqzlqe27rsln4"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idfjfs8e27rqzlqe27rsltn.linkidj6fkle27rqzlqe27ryodp">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idfjfs8e27rqzlqe27rsltn">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

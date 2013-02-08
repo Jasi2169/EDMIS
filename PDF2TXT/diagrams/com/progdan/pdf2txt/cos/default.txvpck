@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id8v9sge27rqzlqe27rsld5.linkidy6iee27rqzlqe27rynoj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idcjd4qe27rqzlqe27rsllu"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkiderw08e27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkidln1le27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkidhsh7xe27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkiddmthye27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkide5vx7e27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id4m2wse27rqzlqe27rslis"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkid3l7cte27rqzlqe27rynoy">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idcmpawe27rqzlqe27rslhx"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkid66doe27rqzlqe27rynpe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8v9sge27rqzlqe27rsld5.linkidcgda4e27rqzlqe27rynpe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id7i17te27rqzlqe27rsln4"/>
+        <participant role="Client" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id8v9sge27rqzlqe27rsld5">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.ICOSVisitor">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference117" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSString">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference118" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSStream">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference119" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSFloat">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference120" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSDocument">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference121" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSBoolean">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference122" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSNull">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference123" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSDictionary">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference124" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSInteger">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference125" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSBase">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference126" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSNumber">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference127" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSArray">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference128" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSName">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference129" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cos.COSObject">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

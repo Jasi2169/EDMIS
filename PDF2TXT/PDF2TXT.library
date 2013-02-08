@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>PDF2TXT</fullname>
+  <class>
+    <path>[external/ant.jar]</path>
+    <path>[external/checkstyle-all-3.4.jar]</path>
+    <path>[external/junit.jar]</path>
+    <path>[external/log4j-1.2.8.jar]</path>
+    <path>[external/lucene-1.4.2.jar]</path>
+    <path>[external/lucene-demos-1.4.2.jar]</path>
+    <path>[external/xercesImpl.jar]</path>
+    <path>[external/xml-apis.jar]</path>
+  </class>
+  <lastmodsaved>1101925483031</lastmodsaved>
+</library>

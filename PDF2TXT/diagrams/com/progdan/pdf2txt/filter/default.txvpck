@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idjw1s5e27rqzlqe27rslid.linkid8hu89e27rqzlqe27rynu6">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjw1s5e27rqzlqe27rslid.linkidfxa79e27rqzlqe27rynu6">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjw1s5e27rqzlqe27rslid.linkide9huce27rqzlqe27rynu6">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjw1s5e27rqzlqe27rslid.linkide5j0he27rqzlqe27rynu6">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <participant role="Client" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjw1s5e27rqzlqe27rslid.linkid1ucbfe27rqzlqe27rynul">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idjw1s5e27rqzlqe27rslid">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.LZWNode">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference51" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.LZWFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference52" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.ASCIIHexFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference53" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.FlateFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference54" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.ASCII85Filter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference55" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.DCTFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference56" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.LZWDictionary">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference57" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.Filter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference58" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.RunLengthDecodeFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference59" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.CCITTFaxDecodeFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference60" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.filter.FilterManager">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

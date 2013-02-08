@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idatjqpe27rqzlqe27rsldl.linkidir1q3e27rqzlqe27rynpe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idatjqpe27rqzlqe27rsldl.linkid8drw5e27rqzlqe27rynpt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idatjqpe27rqzlqe27rsldl.linkid59s39e27rqzlqe27rynpt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idatjqpe27rqzlqe27rsldl.linkidchcfe27rqzlqe27rynpt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idatjqpe27rqzlqe27rsldl.linkidjxfgxe27rqzlqe27rynpt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idatjqpe27rqzlqe27rsldl.linkidcz6sae27rqzlqe27rynpt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idatjqpe27rqzlqe27rsldl">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.PdfDocEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference100" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.EncodingManager">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference101" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.Encoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference102" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.StandardEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference103" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.WinAnsiEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference104" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.AFMEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference105" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.DictionaryEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference106" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.encoding.MacRomanEncoding">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

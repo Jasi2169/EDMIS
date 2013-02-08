@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid6yikke27rqzlqe27rynjb">
+        <participant role="Supplier" referencedUin="design:view:::id3qxgoe27rqzlqe27rslew"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidd9e17e27rqzlqe27rynjb">
+        <participant role="Supplier" referencedUin="design:view:::idd3prne27rqzlqe27rsla4"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkide6sage27rqzlqe27rynjb">
+        <participant role="Supplier" referencedUin="design:view:::id4m2wse27rqzlqe27rslis"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid5fa25e27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::id6cl04e27rqzlqe27rslrw"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidf3vj4e27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidecvl3e27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::id6e7hhe27rqzlqe27rslo0"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidjqr40e27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::id4b47fe27rqzlqe27rslu2"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidcszmre27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::idgi7xbe27rqzlqe27rslov"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid57a2ae27rqzlqe27rynjr">
+        <participant role="Supplier" referencedUin="design:view:::id6yzbre27rqzlqe27rslw9"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidixi4de27rqzlqe27rynk6">
+        <participant role="Supplier" referencedUin="design:view:::idfjfs8e27rqzlqe27rsltn"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidazrrde27rqzlqe27rynk6">
+        <participant role="Supplier" referencedUin="design:view:::idjh44we27rqzlqe27rslui"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid8e2uxe27rqzlqe27rynk6">
+        <participant role="Supplier" referencedUin="design:view:::idh9dr3e27rqzlqe27rslyf"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid4uyj0e27rqzlqe27rynk6">
+        <participant role="Supplier" referencedUin="design:view:::idbqjbce27rqzlqe27rslr1"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid9v448e27rqzlqe27rynk6">
+        <participant role="Supplier" referencedUin="design:view:::idhf8lne27rqzlqe27rslnk"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid5hywbe27rqzlqe27rynkm">
+        <participant role="Supplier" referencedUin="design:view:::id7opx8e27rqzlqe27rsle0"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidcrb9de27rqzlqe27rynkm">
+        <participant role="Supplier" referencedUin="design:view:::id480x1e27rqzlqe27rslca"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid21kse27rqzlqe27rynkm">
+        <participant role="Supplier" referencedUin="design:view:::idcbw6ze27rqzlqe27rslsc"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkiddpv73e27rqzlqe27rynkm">
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidemmzpe27rqzlqe27rynl2">
+        <participant role="Supplier" referencedUin="design:view:::id7i17te27rqzlqe27rsln4"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidih3mte27rqzlqe27rynl2">
+        <participant role="Supplier" referencedUin="design:view:::id5lbnqe27rqzlqe27rsluy"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidh9vaqe27rqzlqe27rynl2">
+        <participant role="Supplier" referencedUin="design:view:::id54fife27rqzlqe27rsljn"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkideqidxe27rqzlqe27rynl2">
+        <participant role="Supplier" referencedUin="design:view:::idcmpawe27rqzlqe27rslhx"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidj1eyme27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idhxwg2e27rqzlqe27rslss"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid3lr23e27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idck19fe27rqzlqe27rslpq"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid10v4e27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idgch7ae27rqzlqe27rslpb"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidbnmpre27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidjv2tde27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idjsguse27rqzlqe27rslwo"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidip6yke27rqzlqe27rynlh">
+        <participant role="Supplier" referencedUin="design:view:::idfd4xge27rqzlqe27rslky"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkida619ae27rqzlqe27rynlx">
+        <participant role="Supplier" referencedUin="design:view:::idcjd4qe27rqzlqe27rsllu"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidff1ime27rqzlqe27rynlx">
+        <participant role="Supplier" referencedUin="design:view:::idh17u3e27rqzlqe27rslql"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid9k6t9e27rqzlqe27rynlx">
+        <participant role="Supplier" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid6kc3e27rqzlqe27rynlx">
+        <participant role="Supplier" referencedUin="design:view:::id408n8e27rqzlqe27rslvt"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid2kmnpe27rqzlqe27rynmc">
+        <participant role="Supplier" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkid56djfe27rqzlqe27rynmc">
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idakbkze27rqzlqe27rsl7y.linkidb2ww2e27rqzlqe27rynmc">
+        <participant role="Supplier" referencedUin="design:view:::idcinwbe27rqzlqe27rslk3"/>
+        <participant role="Client" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idakbkze27rqzlqe27rsl7y">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idhieh2e27rqzlqe27rslbu">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.cmapparser"/>
+            <property name="bounds" value="496,1093,90,104"/>
+            <reference referencedUin="design:link:::idhieh2e27rqzlqe27rslbu.linkid5yqepe27rqzlqe27rynnn">
+                <property name="sourceAnchor" value="586,1145"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="744,1145"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference5" referencedUin="design:view:::idjw1s5e27rqzlqe27rslid">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.filter"/>
+            <property name="bounds" value="1080,10,152,264"/>
+            <reference referencedUin="design:link:::idjw1s5e27rqzlqe27rslid.linkide5j0he27rqzlqe27rynu6">
+                <property name="sourceAnchor" value="1080,186"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="960,186"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference6" referencedUin="design:view:::idcmpawe27rqzlqe27rslhx">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.exceptions"/>
+            <property name="bounds" value="362,412,165,136"/>
+        </reference>
+        <reference df-class-name="reference7" referencedUin="design:view:::id6yzbre27rqzlqe27rslw9">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.persistence"/>
+            <property name="bounds" value="30,412,87,104"/>
+        </reference>
+        <reference df-class-name="reference8" referencedUin="design:view:::idd3prne27rqzlqe27rsla4">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.afmtypes"/>
+            <property name="bounds" value="1654,412,104,200"/>
+            <reference referencedUin="design:link:::idd3prne27rqzlqe27rsla4.linkidekj1he27rqzlqe27rynn8">
+                <property name="sourceAnchor" value="1723,612"/>
+                <property name="bendpoints" value="1723,644"/>
+                <property name="targetAnchor" value="1514,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference9" referencedUin="design:view:::id4m2wse27rqzlqe27rslis">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.io"/>
+            <property name="bounds" value="1220,412,200,216"/>
+            <reference referencedUin="design:link:::id4m2wse27rqzlqe27rslis.linkidjdhme27rqzlqe27rynv1">
+                <property name="sourceAnchor" value="1353,412"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="940,322"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference11" referencedUin="design:view:::idn8eee27rqzlqe27rslx4">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.searchengine"/>
+            <property name="bounds" value="1624,690,97,104"/>
+        </reference>
+        <reference df-class-name="reference13" referencedUin="design:view:::id3qxgoe27rqzlqe27rslew">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.examples"/>
+            <property name="bounds" value="167,412,115,161"/>
+            <reference referencedUin="design:link:::id3qxgoe27rqzlqe27rslew.linkidji1yae27rqzlqe27ryns0">
+                <property name="sourceAnchor" value="282,480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="362,480"/>
+            </reference>
+            <reference referencedUin="design:link:::id3qxgoe27rqzlqe27rslew.linkid45prie27rqzlqe27rynrk">
+                <property name="sourceAnchor" value="203,412"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="203,162"/>
+            </reference>
+            <reference referencedUin="design:link:::id3qxgoe27rqzlqe27rslew.linkidh6il1e27rqzlqe27rynrk">
+                <property name="sourceAnchor" value="242,412"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="866,322"/>
+            </reference>
+            <reference referencedUin="design:link:::id3qxgoe27rqzlqe27rslew.linkida20rze27rqzlqe27rynr4">
+                <property name="sourceAnchor" value="224,573"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="759,708"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference14" referencedUin="design:view:::idcinwbe27rqzlqe27rslk3">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdfviewer"/>
+            <property name="bounds" value="1440,412,144,200"/>
+            <reference referencedUin="design:link:::idcinwbe27rqzlqe27rslk3.linkid15t7le27rqzlqe27rynwc">
+                <property name="sourceAnchor" value="1452,612"/>
+                <property name="bendpoints" value="1452,637"/>
+                <property name="targetAnchor" value="863,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::idcinwbe27rqzlqe27rslk3.linkid4qn5ye27rqzlqe27rynwr">
+                <property name="sourceAnchor" value="1464,612"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1464,708"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference19" referencedUin="design:view:::id54fife27rqzlqe27rsljn">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdfparser"/>
+            <property name="bounds" value="1018,412,122,152"/>
+            <reference referencedUin="design:link:::id54fife27rqzlqe27rsljn.linkide1zexe27rqzlqe27rynvw">
+                <property name="sourceAnchor" value="1079,412"/>
+                <property name="bendpoints" value="1079,402"/>
+                <property name="targetAnchor" value="920,322"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::id54fife27rqzlqe27rsljn.linkiddo6pie27rqzlqe27rynvh">
+                <property name="sourceAnchor" value="1018,540"/>
+                <property name="bendpoints" value="942,648,186,648"/>
+                <property name="targetAnchor" value="117,499"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::id54fife27rqzlqe27rsljn.linkidago3he27rqzlqe27rynvh">
+                <property name="sourceAnchor" value="1099,564"/>
+                <property name="bendpoints" value="1099,605"/>
+                <property name="targetAnchor" value="1437,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::id54fife27rqzlqe27rsljn.linkidftw7he27rqzlqe27rynvw">
+                <property name="sourceAnchor" value="1140,488"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1220,488"/>
+            </reference>
+            <reference referencedUin="design:link:::id54fife27rqzlqe27rsljn.linkidcod43e27rqzlqe27rynv1">
+                <property name="sourceAnchor" value="1058,564"/>
+                <property name="bendpoints" value="1058,606"/>
+                <property name="targetAnchor" value="853,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference21" referencedUin="design:view:::id7opx8e27rqzlqe27rsle0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.encryption"/>
+            <property name="bounds" value="607,412,135,136"/>
+            <reference referencedUin="design:link:::id7opx8e27rqzlqe27rsle0.linkid4vy9he27rqzlqe27rynq9">
+                <property name="sourceAnchor" value="674,548"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="792,708"/>
+            </reference>
+            <reference referencedUin="design:link:::id7opx8e27rqzlqe27rsle0.linkidf4wg4e27rqzlqe27rynqp">
+                <property name="sourceAnchor" value="607,480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="527,480"/>
+            </reference>
+            <reference referencedUin="design:link:::id7opx8e27rqzlqe27rsle0.linkid935q9e27rqzlqe27rynq9">
+                <property name="sourceAnchor" value="674,412"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="884,322"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference22" referencedUin="design:view:::idhw3zqe27rqzlqe27rsl98">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.afmparser"/>
+            <property name="bounds" value="1664,10,83,104"/>
+            <reference referencedUin="design:link:::idhw3zqe27rqzlqe27rsl98.linkidaz3tze27rqzlqe27rynmc">
+                <property name="sourceAnchor" value="1705,114"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1705,412"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference25" referencedUin="design:view:::idh9dr3e27rqzlqe27rslyf">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.util"/>
+            <property name="bounds" value="1411,708,128,296"/>
+            <reference referencedUin="design:link:::idh9dr3e27rqzlqe27rslyf.linkid2lxm4e27rqzlqe27ryohl">
+                <property name="sourceAnchor" value="1411,905"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="884,905"/>
+            </reference>
+            <reference referencedUin="design:link:::idh9dr3e27rqzlqe27rslyf.linkid7mtvke27rqzlqe27ryoi1">
+                <property name="sourceAnchor" value="1489,708"/>
+                <property name="bendpoints" value="1604,635,1604,382"/>
+                <property name="targetAnchor" value="950,322"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference27" referencedUin="design:view:::idatjqpe27rqzlqe27rsldl">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.encoding"/>
+            <property name="bounds" value="802,412,136,216"/>
+            <reference referencedUin="design:link:::idatjqpe27rqzlqe27rsldl.linkidir1q3e27rqzlqe27rynpe">
+                <property name="sourceAnchor" value="938,439"/>
+                <property name="bendpoints" value="1025,392,1575,392"/>
+                <property name="targetAnchor" value="1654,432"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::idatjqpe27rqzlqe27rsldl.linkidjxfgxe27rqzlqe27rynpt">
+                <property name="sourceAnchor" value="911,412"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="911,322"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference29" referencedUin="design:view:::idcjd4qe27rqzlqe27rsllu">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdmodel"/>
+            <property name="bounds" value="727,708,157,305"/>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkidiuy7ie27rqzlqe27ryo08">
+                <property name="sourceAnchor" value="873,708"/>
+                <property name="bendpoints" value="1688,640"/>
+                <property name="targetAnchor" value="1688,612"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkid62n61e27rqzlqe27ryo1z">
+                <property name="sourceAnchor" value="843,708"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="843,628"/>
+            </reference>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkidalo8re27rqzlqe27ryo14">
+                <property name="sourceAnchor" value="775,708"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="444,548"/>
+            </reference>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkidiknqhe27rqzlqe27ryo1j">
+                <property name="sourceAnchor" value="826,708"/>
+                <property name="bendpoints" value="782,619,782,408"/>
+                <property name="targetAnchor" value="902,322"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkid9yft5e27rqzlqe27ryo14">
+                <property name="sourceAnchor" value="884,806"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1411,806"/>
+            </reference>
+            <reference referencedUin="design:link:::idcjd4qe27rqzlqe27rsllu.linkidboncqe27rqzlqe27ryo0o">
+                <property name="sourceAnchor" value="805,1013"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="805,1093"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference30" referencedUin="design:view:::idfd4xge27rqzlqe27rslky">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.pdfwriter"/>
+            <property name="bounds" value="102,10,173,152"/>
+            <reference referencedUin="design:link:::idfd4xge27rqzlqe27rslky.linkidctzo6e27rqzlqe27rynx7">
+                <property name="sourceAnchor" value="135,162"/>
+                <property name="bendpoints" value="10,421,10,645"/>
+                <property name="targetAnchor" value="743,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::idfd4xge27rqzlqe27rslky.linkid3yuate27rqzlqe27rynxn">
+                <property name="sourceAnchor" value="275,86"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="856,86"/>
+            </reference>
+            <reference referencedUin="design:link:::idfd4xge27rqzlqe27rslky.linkidi7ktve27rqzlqe27rynx7">
+                <property name="sourceAnchor" value="169,162"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="73,412"/>
+            </reference>
+            <reference referencedUin="design:link:::idfd4xge27rqzlqe27rslky.linkidf8kx2e27rqzlqe27rynxn">
+                <property name="sourceAnchor" value="239,162"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="417,412"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference33" referencedUin="design:view:::idavmnie27rqzlqe27rslaz">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.ant"/>
+            <property name="bounds" value="1559,830,108,104"/>
+        </reference>
+        <reference df-class-name="reference35" referencedUin="design:view:::id480x1e27rqzlqe27rslca">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.cmaptypes"/>
+            <property name="bounds" value="744,1093,122,120"/>
+        </reference>
+        <reference df-class-name="reference36" referencedUin="design:view:::id8v9sge27rqzlqe27rsld5">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:PDF2TXT:src:com.progdan.pdf2txt.cos"/>
+            <property name="bounds" value="856,10,104,312"/>
+            <reference referencedUin="design:link:::id8v9sge27rqzlqe27rsld5.linkidy6iee27rqzlqe27rynoj">
+                <property name="sourceAnchor" value="893,322"/>
+                <property name="bendpoints" value="762,403,762,609"/>
+                <property name="targetAnchor" value="809,708"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="design:link:::id8v9sge27rqzlqe27rsld5.linkidhsh7xe27rqzlqe27rynoy">
+                <property name="sourceAnchor" value="960,98"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1080,98"/>
+            </reference>
+            <reference referencedUin="design:link:::id8v9sge27rqzlqe27rsld5.linkide5vx7e27rqzlqe27rynoy">
+                <property name="sourceAnchor" value="930,322"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1286,412"/>
+            </reference>
+            <reference referencedUin="design:link:::id8v9sge27rqzlqe27rsld5.linkid3l7cte27rqzlqe27rynoy">
+                <property name="sourceAnchor" value="875,322"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="472,412"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference39" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.Decrypt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1559,970,83,117"/>
+        </reference>
+        <reference df-class-name="reference40" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.ExportXFDF">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,1250,106,165"/>
+        </reference>
+        <reference df-class-name="reference41" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.ImportXFDF">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="886,1130,108,181"/>
+        </reference>
+        <reference df-class-name="reference42" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.ExtractText">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1014,1130,182,222"/>
+        </reference>
+        <reference df-class-name="reference43" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.Encrypt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1662,970,83,117"/>
+        </reference>
+        <reference df-class-name="reference44" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.PDFViewer">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,1450,200,590"/>
+        </reference>
+        <reference df-class-name="reference45" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.Overlay">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1216,1130,200,430"/>
+        </reference>
+        <reference df-class-name="reference46" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.PDFSplit">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1436,1130,184,190"/>
+        </reference>
+        <reference df-class-name="reference47" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.ImportFDF">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1640,1130,104,181"/>
+        </reference>
+        <reference df-class-name="reference48" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.ExportFDF">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1640,1350,99,165"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

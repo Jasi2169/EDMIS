@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="idcmpawe27rqzlqe27rslhx">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.exceptions.InvalidPasswordException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference61" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.exceptions.COSVisitorException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference62" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.exceptions.CryptographyException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

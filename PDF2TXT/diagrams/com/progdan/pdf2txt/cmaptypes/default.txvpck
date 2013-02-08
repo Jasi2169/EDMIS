@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id480x1e27rqzlqe27rslca.linkidjnj3re27rqzlqe27ryno3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi5dz6e27rqzlqe27rvob2"/>
+        <participant role="Client" referencedUin="design:view:::id480x1e27rqzlqe27rslca"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id480x1e27rqzlqe27rslca.linkidc3ddue27rqzlqe27ryno3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id65cu7e27rqzlqe27rsiq3"/>
+        <participant role="Client" referencedUin="design:view:::id480x1e27rqzlqe27rslca"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id480x1e27rqzlqe27rslca.linkidjn0obe27rqzlqe27ryno3">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idf31mle27rqzlqe27rxx27"/>
+        <participant role="Client" referencedUin="design:view:::id480x1e27rqzlqe27rslca"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id480x1e27rqzlqe27rslca.linkidcl766e27rqzlqe27rynoj">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idakbkze27rqzlqe27rsl7y"/>
+        <participant role="Client" referencedUin="design:view:::id480x1e27rqzlqe27rslca"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id480x1e27rqzlqe27rslca">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cmaptypes.CodespaceRange">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference116" referencedUin="jdt:e_class:src:com.progdan.pdf2txt.cmaptypes.CMap">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>
