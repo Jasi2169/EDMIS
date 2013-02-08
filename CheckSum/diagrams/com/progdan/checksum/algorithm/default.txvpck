@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idj6r0ze29806tre29a6dhf.linkid68w3oe29806tre29a73bz">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9fnjve29806tre29a6dib"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idj6r0ze29806tre29a6dhf.linkidcafuve29806tre29a73bz">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id3udhde29806tre29a6cs9"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idj6r0ze29806tre29a6dhf.linkidi27jve29806tre29a73cf">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id2njy0e29806tre29a6dg5"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idj6r0ze29806tre29a6dhf.linkidjxk9ve29806tre29a73cf">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idj6r0ze29806tre29a6dhf.linkidc4huve29806tre29a73cf">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idj6r0ze29806tre29a6dhf.linkidcft7e29806tre29a73cf">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddid6ye29806tre29a6dfp"/>
+        <participant role="Client" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idj6r0ze29806tre29a6dhf">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.SumBSD">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference157" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.AbstractChecksum">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference158" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Crc32">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference159" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Cksum">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference160" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.FCS32">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference161" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.MD">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference162" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Crc64">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference163" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Sum24">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference164" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Sum16">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference165" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.SumSysV">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference166" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Elf">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference167" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.FCS16">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference168" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Xor8">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference169" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Sum32">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference170" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Edonkey">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference171" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Crc16">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference172" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Adler32">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference173" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Sum8">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference174" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Service">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference175" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.Crc32Mpeg2">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference176" referencedUin="jdt:e_class:src:com.progdan.checksum.algorithm.MDgnu">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

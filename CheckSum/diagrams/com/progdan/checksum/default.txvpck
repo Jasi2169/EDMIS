@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id8xe4je29806tre29a6dgk.linkidw7k6e29806tre29a72wt">
+        <participant role="Supplier" referencedUin="design:view:::id9fnjve29806tre29a6dib"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8xe4je29806tre29a6dgk.linkid9wd7ie29806tre29a72wt">
+        <participant role="Supplier" referencedUin="design:view:::idj6r0ze29806tre29a6dhf"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8xe4je29806tre29a6dgk.linkid8au5ee29806tre29a72wt">
+        <participant role="Supplier" referencedUin="design:view:::id3udhde29806tre29a6cs9"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8xe4je29806tre29a6dgk.linkidaezn7e29806tre29a72wt">
+        <participant role="Supplier" referencedUin="design:view:::id2njy0e29806tre29a6dg5"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8xe4je29806tre29a6dgk.linkid1hanhe29806tre29a72x8">
+        <participant role="Supplier" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8xe4je29806tre29a6dgk.linkidj5ri1e29806tre29a72x8">
+        <participant role="Supplier" referencedUin="design:view:::iddid6ye29806tre29a6dfp"/>
+        <participant role="Client" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id8xe4je29806tre29a6dgk">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idj6r0ze29806tre29a6dhf">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:CheckSum:src:com.progdan.checksum.algorithm"/>
+            <property name="bounds" value="10,10,126,424"/>
+            <reference referencedUin="design:link:::idj6r0ze29806tre29a6dhf.linkidjxk9ve29806tre29a73cf">
+                <property name="sourceAnchor" value="136,74"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="216,74"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference153" referencedUin="design:view:::id8ppfxe29806tre29a6dhv">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:CheckSum:src:com.progdan.checksum.crypto"/>
+            <property name="bounds" value="216,10,83,129"/>
+        </reference>
+        <reference df-class-name="reference154" referencedUin="design:view:::id9ldave29806tre29a6dj6">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:CheckSum:src:com.progdan.checksum.util"/>
+            <property name="bounds" value="319,10,113,136"/>
+        </reference>
+        <reference df-class-name="reference1" referencedUin="jdt:e_class:src:com.progdan.checksum.Checksum">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="452,10,200,846"/>
+        </reference>
+        <reference df-class-name="reference2" referencedUin="jdt:e_class:src:com.progdan.checksum.ChecksumAPI">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="672,10,200,101"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

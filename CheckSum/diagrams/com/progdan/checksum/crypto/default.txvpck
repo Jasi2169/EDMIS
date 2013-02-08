@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id8ppfxe29806tre29a6dhv.linkidg3j78e29806tre29a73cv">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9fnjve29806tre29a6dib"/>
+        <participant role="Client" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8ppfxe29806tre29a6dhv.linkid5ry4le29806tre29a73cv">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id3udhde29806tre29a6cs9"/>
+        <participant role="Client" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8ppfxe29806tre29a6dhv.linkidf5sdbe29806tre29a73cv">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id2njy0e29806tre29a6dg5"/>
+        <participant role="Client" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8ppfxe29806tre29a6dhv.linkid730sle29806tre29a73cv">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8xe4je29806tre29a6dgk"/>
+        <participant role="Client" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8ppfxe29806tre29a6dhv.linkid5ga66e29806tre29a73cv">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddid6ye29806tre29a6dfp"/>
+        <participant role="Client" referencedUin="design:view:::id8ppfxe29806tre29a6dhv"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id8ppfxe29806tre29a6dhv">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id9fnjve29806tre29a6dib">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:CheckSum:src:com.progdan.checksum.crypto.hash"/>
+        </reference>
+        <reference df-class-name="reference152" referencedUin="design:view:::idge0m7e29806tre29a6diq">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:CheckSum:src:com.progdan.checksum.crypto.util"/>
+        </reference>
+        <reference df-class-name="reference177" referencedUin="jdt:e_class:src:com.progdan.checksum.crypto.Registry">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="id9ldave29806tre29a6dj6">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.checksum.util.GeneralString">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference178" referencedUin="jdt:e_class:src:com.progdan.checksum.util.GeneralProgram">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference179" referencedUin="jdt:e_class:src:com.progdan.checksum.util.Version">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>
