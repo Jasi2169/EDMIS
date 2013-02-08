@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="idc1gsye29806tre29bsdrt">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference239" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.ReGame">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference240" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.guigrep">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference241" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.guigrep$1">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference242" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.Message">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference246" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.indent">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference247" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.ReGap">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference248" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.guigrep$2">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference253" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.ColorText">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference254" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.Deck">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference259" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.ReGameDes">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference260" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.TestGroup">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference262" referencedUin="jdt:e_class:src:com.progdan.zipengine.apps.ColorLine">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

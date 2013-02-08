@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="id5vxwe29806tre29bsdqi">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idc1gsye29806tre29bsdrt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:ZipEngine:src:com.progdan.zipengine.apps"/>
+            <property name="bounds" value="3099,730,94,280"/>
+        </reference>
+        <reference df-class-name="reference180" referencedUin="jdt:e_class:src:com.progdan.zipengine.FileRegex">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2192,1924,150,206"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.FileRegex:dir">
+                <property name="sourceAnchor" value="2242,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2242,1710"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.FileRegex:com.progdan.zipengine.Regex">
+                <property name="sourceAnchor" value="2232,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2232,1710"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference181" referencedUin="jdt:e_class:src:com.progdan.zipengine.StrPos">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3004,10,137,382"/>
+        </reference>
+        <reference df-class-name="reference182" referencedUin="jdt:e_class:src:com.progdan.zipengine.AddToEnd">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2546,187,83,85"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.AddToEnd:com.progdan.zipengine.RegSyntax">
+                <property name="sourceAnchor" value="2587,187"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2495,127"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference183" referencedUin="jdt:e_class:src:com.progdan.zipengine.RegOpt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3161,10,83,101"/>
+        </reference>
+        <reference df-class-name="reference184" referencedUin="jdt:e_class:src:com.progdan.zipengine.Skip">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2085,1924,87,286"/>
+        </reference>
+        <reference df-class-name="reference185" referencedUin="jdt:e_class:src:com.progdan.zipengine.RegexTokenizer">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2555,1924,170,366"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.RegexTokenizer:r">
+                <property name="sourceAnchor" value="2640,1924"/>
+                <property name="bendpoints" value="2252,1834"/>
+                <property name="targetAnchor" value="2252,1710"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference186" referencedUin="jdt:e_class:src:com.progdan.zipengine.ZipExtract">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2649,10,152,462"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.ZipExtract:m_layout">
+                <property name="sourceAnchor" value="2801,121"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2881,121"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference187" referencedUin="jdt:e_class:src:com.progdan.zipengine.BadRangeArgs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2428,187,98,85"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.BadRangeArgs:com.progdan.zipengine.RegSyntax">
+                <property name="sourceAnchor" value="2474,187"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2474,127"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference188" referencedUin="jdt:e_class:src:com.progdan.zipengine.Bracket">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3255,1924,112,206"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Bracket:com.progdan.zipengine.Or">
+                <property name="sourceAnchor" value="3311,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2756,926"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference189" referencedUin="jdt:e_class:src:com.progdan.zipengine.LeftRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1901,2350,105,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.LeftRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="1953,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1953,2162"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference190" referencedUin="jdt:e_class:src:com.progdan.zipengine.Replacer">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3161,150,161,206"/>
+        </reference>
+        <reference df-class-name="reference191" referencedUin="jdt:e_class:src:com.progdan.zipengine.lookAhead">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3123,1924,112,190"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.lookAhead:com.progdan.zipengine.Or">
+                <property name="sourceAnchor" value="3179,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2728,926"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference192" referencedUin="jdt:e_class:src:com.progdan.zipengine.Skip2">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2151,2350,83,126"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Skip2:com.progdan.zipengine.Skip">
+                <property name="sourceAnchor" value="2192,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2114,2210"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference193" referencedUin="jdt:e_class:src:com.progdan.zipengine.Group">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1365,704,112,158"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Group:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1421,704"/>
+                <property name="bendpoints" value="1371,571"/>
+                <property name="targetAnchor" value="1371,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference194" referencedUin="jdt:e_class:src:com.progdan.zipengine.RegRes">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2146,10,149,574"/>
+        </reference>
+        <reference df-class-name="reference195" referencedUin="jdt:e_class:src:com.progdan.zipengine.Rthings">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3161,390,175,158"/>
+        </reference>
+        <reference df-class-name="reference196" referencedUin="jdt:e_class:src:com.progdan.zipengine.Branch">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="551,704,112,222"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Branch:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="607,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1331,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference197" referencedUin="jdt:e_class:src:com.progdan.zipengine.NullRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1776,2350,105,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.NullRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="1828,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1934,2162"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference198" referencedUin="jdt:e_class:src:com.progdan.zipengine.DirFileRegex">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2544,2350,150,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.DirFileRegex:com.progdan.zipengine.FileRegex">
+                <property name="sourceAnchor" value="2619,2350"/>
+                <property name="bendpoints" value="2292,2237"/>
+                <property name="targetAnchor" value="2292,2130"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference199" referencedUin="jdt:e_class:src:com.progdan.zipengine.BadMultiArgs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2315,187,93,85"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.BadMultiArgs:com.progdan.zipengine.RegSyntax">
+                <property name="sourceAnchor" value="2361,187"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2453,127"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference200" referencedUin="jdt:e_class:src:com.progdan.zipengine.Multi_stage2">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1321,1924,143,222"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi_stage2:count">
+                <property name="sourceAnchor" value="1392,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1821,1038"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi_stage2:nextRet">
+                <property name="sourceAnchor" value="1344,1924"/>
+                <property name="bendpoints" value="1629,1207,1629,699,1385,568"/>
+                <property name="targetAnchor" value="1385,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi_stage2:matchMax">
+                <property name="sourceAnchor" value="1416,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1835,1038"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi_stage2:matchMin">
+                <property name="sourceAnchor" value="1368,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1807,1038"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Multi_stage2:com.progdan.zipengine.PatternSub">
+                <property name="sourceAnchor" value="1440,1924"/>
+                <property name="bendpoints" value="1995,1178"/>
+                <property name="targetAnchor" value="1995,798"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference201" referencedUin="jdt:e_class:src:com.progdan.zipengine.RightRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1395,2350,105,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.RightRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="1447,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1877,2162"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference202" referencedUin="jdt:e_class:src:com.progdan.zipengine.Zipper">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2804,590,139,190"/>
+        </reference>
+        <reference df-class-name="reference203" referencedUin="jdt:e_class:src:com.progdan.zipengine.Regex">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2128,704,185,1006"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:p">
+                <property name="sourceAnchor" value="2151,704"/>
+                <property name="bendpoints" value="2151,689"/>
+                <property name="targetAnchor" value="1427,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:or">
+                <property name="sourceAnchor" value="2313,815"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2672,815"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:pt">
+                <property name="sourceAnchor" value="2262,1710"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2833,1924"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:rep">
+                <property name="sourceAnchor" value="2139,1710"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1932,1924"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:sub">
+                <property name="sourceAnchor" value="2272,1710"/>
+                <property name="bendpoints" value="2272,1794,2364,1794,2364,1636"/>
+                <property name="targetAnchor" value="2313,1636"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:none">
+                <property name="sourceAnchor" value="2197,704"/>
+                <property name="bendpoints" value="2197,685,1441,539"/>
+                <property name="targetAnchor" value="1441,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:match">
+                <property name="sourceAnchor" value="2282,1710"/>
+                <property name="bendpoints" value="2282,1757,2354,1757,2354,1673"/>
+                <property name="targetAnchor" value="2313,1673"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:skipper">
+                <property name="sourceAnchor" value="2150,1710"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2150,1924"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:minMatch">
+                <property name="sourceAnchor" value="2128,741"/>
+                <property name="bendpoints" value="2057,684,1981,684"/>
+                <property name="targetAnchor" value="1905,728"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Regex:thePattern">
+                <property name="sourceAnchor" value="2174,704"/>
+                <property name="bendpoints" value="2174,682"/>
+                <property name="targetAnchor" value="1434,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Regex:com.progdan.zipengine.RegRes">
+                <property name="sourceAnchor" value="2220,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2220,584"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference204" referencedUin="jdt:e_class:src:com.progdan.zipengine.Boundary">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="406,704,125,181"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Boundary:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="468,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1325,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference205" referencedUin="jdt:e_class:src:com.progdan.zipengine.oneChar">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="947,704,112,190"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.oneChar:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1003,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1350,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference206" referencedUin="jdt:e_class:src:com.progdan.zipengine.NoPattern">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1079,704,112,117"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.NoPattern:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1135,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1357,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference207" referencedUin="jdt:e_class:src:com.progdan.zipengine.NonDirFileRegex">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2374,2350,150,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.NonDirFileRegex:com.progdan.zipengine.FileRegex">
+                <property name="sourceAnchor" value="2449,2350"/>
+                <property name="bendpoints" value="2242,2224"/>
+                <property name="targetAnchor" value="2242,2130"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference208" referencedUin="jdt:e_class:src:com.progdan.zipengine.MultiMin">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2714,2350,83,85"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.MultiMin:com.progdan.zipengine.Multi">
+                <property name="sourceAnchor" value="2755,2350"/>
+                <property name="bendpoints" value="2463,2282"/>
+                <property name="targetAnchor" value="2463,2146"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference209" referencedUin="jdt:e_class:src:com.progdan.zipengine.FastChar">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="953,1924,112,101"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.FastChar:com.progdan.zipengine.oneChar">
+                <property name="sourceAnchor" value="1006,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1006,894"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference210" referencedUin="jdt:e_class:src:com.progdan.zipengine.AmpersandRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1645,2350,111,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.AmpersandRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="1700,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1915,2162"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference211" referencedUin="jdt:e_class:src:com.progdan.zipengine.FastMulti">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1514,1924,143,206"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.FastMulti:mostMatches">
+                <property name="sourceAnchor" value="1549,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1849,1038"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.FastMulti:fewestMatches">
+                <property name="sourceAnchor" value="1585,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1863,1038"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.FastMulti:com.progdan.zipengine.PatternSub">
+                <property name="sourceAnchor" value="1621,1924"/>
+                <property name="bendpoints" value="2016,1168"/>
+                <property name="targetAnchor" value="2016,798"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference212" referencedUin="jdt:e_class:src:com.progdan.zipengine.NullPattern">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1649,704,112,133"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.NullPattern:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1705,704"/>
+                <property name="bendpoints" value="1392,552"/>
+                <property name="targetAnchor" value="1392,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference213" referencedUin="jdt:e_class:src:com.progdan.zipengine.SubMark">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1677,1924,112,158"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.SubMark:om">
+                <property name="sourceAnchor" value="1789,2060"/>
+                <property name="bendpoints" value="1916,2300,2736,2300"/>
+                <property name="targetAnchor" value="2991,2060"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.SubMark:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1733,1924"/>
+                <property name="bendpoints" value="1955,1207,1955,686,1399,541"/>
+                <property name="targetAnchor" value="1399,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference214" referencedUin="jdt:e_class:src:com.progdan.zipengine.RegSyntax">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2433,10,83,117"/>
+        </reference>
+        <reference df-class-name="reference215" referencedUin="jdt:e_class:src:com.progdan.zipengine.ReplaceRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1859,1924,147,238"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.ReplaceRule:next">
+                <property name="sourceAnchor" value="1977,2162"/>
+                <property name="bendpoints" value="1977,2201,2045,2201,2045,2133"/>
+                <property name="targetAnchor" value="2006,2133"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference216" referencedUin="jdt:e_class:src:com.progdan.zipengine.BackRefRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1520,2350,105,142"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.BackRefRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="1572,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1896,2162"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference217" referencedUin="jdt:e_class:src:com.progdan.zipengine.Skipped">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1497,704,112,158"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Skipped:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1553,704"/>
+                <property name="bendpoints" value="1378,560"/>
+                <property name="targetAnchor" value="1378,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference218" referencedUin="jdt:e_class:src:com.progdan.zipengine.patInf">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1218,1924,83,85"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.patInf:com.progdan.zipengine.patInt">
+                <property name="sourceAnchor" value="1259,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1794,1038"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference219" referencedUin="jdt:e_class:src:com.progdan.zipengine.MyLayout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2881,10,103,222"/>
+        </reference>
+        <reference df-class-name="reference220" referencedUin="jdt:e_class:src:com.progdan.zipengine.Start">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="815,704,112,142"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Start:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="871,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1343,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference221" referencedUin="jdt:e_class:src:com.progdan.zipengine.SkipBMH">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2254,2350,100,190"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.SkipBMH:com.progdan.zipengine.Skip">
+                <property name="sourceAnchor" value="2304,2350"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2143,2210"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference222" referencedUin="jdt:e_class:src:com.progdan.zipengine.Pthings">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2745,1924,176,174"/>
+        </reference>
+        <reference df-class-name="reference223" referencedUin="jdt:e_class:src:com.progdan.zipengine.Backup">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="274,704,112,158"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Backup:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="330,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1319,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference224" referencedUin="jdt:e_class:src:com.progdan.zipengine.End">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="683,704,112,142"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.End:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="739,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1337,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference225" referencedUin="jdt:e_class:src:com.progdan.zipengine.Multi">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2392,1924,143,222"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi:b">
+                <property name="sourceAnchor" value="2420,1924"/>
+                <property name="bendpoints" value="1877,1681"/>
+                <property name="targetAnchor" value="1877,1038"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi:a">
+                <property name="sourceAnchor" value="2448,1924"/>
+                <property name="bendpoints" value="1891,1581"/>
+                <property name="targetAnchor" value="1891,1038"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi:p">
+                <property name="sourceAnchor" value="2506,1924"/>
+                <property name="bendpoints" value="2078,1720,2078,676,1420,515"/>
+                <property name="targetAnchor" value="1420,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Multi:st2">
+                <property name="sourceAnchor" value="2392,1952"/>
+                <property name="bendpoints" value="2343,1904,1513,1904"/>
+                <property name="targetAnchor" value="1464,1952"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Multi:com.progdan.zipengine.PatternSub">
+                <property name="sourceAnchor" value="2477,1924"/>
+                <property name="bendpoints" value="2037,1684"/>
+                <property name="targetAnchor" value="2037,798"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference226" referencedUin="jdt:e_class:src:com.progdan.zipengine.StringRule">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2026,2350,105,142"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.StringRule:com.progdan.zipengine.ReplaceRule">
+                <property name="sourceAnchor" value="2078,2350"/>
+                <property name="bendpoints" value="1965,2210"/>
+                <property name="targetAnchor" value="1965,2162"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference227" referencedUin="jdt:e_class:src:com.progdan.zipengine.patInt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1781,704,124,334"/>
+        </reference>
+        <reference df-class-name="reference228" referencedUin="jdt:e_class:src:com.progdan.zipengine.ZipCreate">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3264,10,83,85"/>
+        </reference>
+        <reference df-class-name="reference229" referencedUin="jdt:e_class:src:com.progdan.zipengine.OrMark">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2991,1924,112,158"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.OrMark:sm">
+                <property name="sourceAnchor" value="2991,1946"/>
+                <property name="bendpoints" value="2895,1894,1885,1894"/>
+                <property name="targetAnchor" value="1789,1946"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.OrMark:com.progdan.zipengine.Or">
+                <property name="sourceAnchor" value="3047,1924"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2700,926"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference230" referencedUin="jdt:e_class:src:com.progdan.zipengine.Pattern">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1300,10,169,414"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Pattern:next">
+                <property name="sourceAnchor" value="1455,424"/>
+                <property name="bendpoints" value="1455,500,1493,500,1493,358"/>
+                <property name="targetAnchor" value="1469,358"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.Pattern:parent">
+                <property name="sourceAnchor" value="1462,424"/>
+                <property name="bendpoints" value="1462,467,1486,467,1486,391"/>
+                <property name="targetAnchor" value="1469,391"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference231" referencedUin="jdt:e_class:src:com.progdan.zipengine.Range">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1211,704,134,222"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Range:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="1278,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1364,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference232" referencedUin="jdt:e_class:src:com.progdan.zipengine.Key">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2963,590,116,110"/>
+        </reference>
+        <reference df-class-name="reference233" referencedUin="jdt:e_class:src:com.progdan.zipengine.ZipList">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="3099,590,84,101"/>
+        </reference>
+        <reference df-class-name="reference234" referencedUin="jdt:e_class:src:com.progdan.zipengine.Or">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2672,704,112,222"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Or:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="2728,704"/>
+                <property name="bendpoints" value="1448,478"/>
+                <property name="targetAnchor" value="1448,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference235" referencedUin="jdt:e_class:src:com.progdan.zipengine.BackMatch">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,704,112,126"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.BackMatch:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="66,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1306,424"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference236" referencedUin="jdt:e_class:src:com.progdan.zipengine.PatternSub">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1975,704,83,94"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.zipengine.PatternSub:sub">
+                <property name="sourceAnchor" value="2030,704"/>
+                <property name="bendpoints" value="2030,672,1413,506"/>
+                <property name="targetAnchor" value="1413,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.PatternSub:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="2002,704"/>
+                <property name="bendpoints" value="1406,498"/>
+                <property name="targetAnchor" value="1406,424"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference237" referencedUin="jdt:e_class:src:com.progdan.zipengine.Any">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="142,704,112,149"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.zipengine.Any:com.progdan.zipengine.Pattern">
+                <property name="sourceAnchor" value="198,704"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1313,424"/>
+            </reference>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

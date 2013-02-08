@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="idhh0owe29806tre29bsd8a">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id5vxwe29806tre29bsdqi">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:ZipEngine:src:com.progdan.zipengine"/>
+            <property name="bounds" value="10,10,115,1025"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>
