@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="id9nlh8e4e2i43ve4e2iuuz">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id7mn05e4e2i43ve4e2iuy0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.control.index.converters"/>
+            <property name="bounds" value="10,170,83,184"/>
+        </reference>
+        <reference df-class-name="reference21" referencedUin="jdt:e_class:src:com.progdan.edmis.control.index.IndexFiles">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,10,95,126"/>
+        </reference>
+        <reference df-class-name="reference22" referencedUin="jdt:e_class:src:com.progdan.edmis.control.index.CreateIndex">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="125,10,95,94"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

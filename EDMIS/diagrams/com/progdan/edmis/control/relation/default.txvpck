@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idcootxe48xe0age48xe6oh.linkid8cm54e4e2i43ve4e2j9oe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idehppve3nlz5u3e3nm07jq"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkid23lvye4e2i43ve4e2j9oe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkid8l00te4e2i43ve4e2j9ou">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::ida9tise3nlz5u3e3nm039n"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkide0sc0e4e2i43ve4e2j9p9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddcpq5e3nlz5u3e3nm07b1"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkid3hws1e4e2i43ve4e2j9pp">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id85l2re48xe0age48xe6se"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkid8iov4e4e2i43ve4e2j9q5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idglcxce3p75ftfe3p75qcs"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkidair53e4e2i43ve4e2j9q5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id2n0oce3nlz5u3e3nm07dn"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkides6xse4e2i43ve4e2j9qk">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id7a4r2e3p75ftfe3p75q5e"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcootxe48xe0age48xe6oh.linkid7777pe4e2i43ve4e2j9qk">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjudtwe3nlz5u3e3nm07fe"/>
+        <participant role="Client" referencedUin="design:view:::idcootxe48xe0age48xe6oh"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idcootxe48xe0age48xe6oh">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.edmis.control.relation.RelationWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference11" referencedUin="jdt:e_class:src:com.progdan.edmis.control.relation.RelationReader">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference20" referencedUin="jdt:e_class:src:com.progdan.edmis.control.relation.RelationControl">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="idf4gj7e3p75ftfe3p75qhz">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idbhtj7e3p75ftfe3p75qjq">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.error.user"/>
+            <property name="bounds" value="10,10,144,104"/>
+        </reference>
+        <reference df-class-name="reference1" referencedUin="design:view:::id7ovl0e5oijro0e5oijxp0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.error.license"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

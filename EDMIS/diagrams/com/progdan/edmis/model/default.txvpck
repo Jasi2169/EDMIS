@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkid7ghsse3p75ftfe3p7bslz">
+        <participant role="Supplier" referencedUin="design:view:::id7a4r2e3p75ftfe3p75q5e"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkid118p2e3p75ftfe3p7bsmf">
+        <participant role="Supplier" referencedUin="design:view:::idjudtwe3nlz5u3e3nm07fe"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkid3ykr1e3p75ftfe3p7bsmf">
+        <participant role="Supplier" referencedUin="design:view:::idglcxce3p75ftfe3p75qcs"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkidjzfbe3p75ftfe3p7bsmu">
+        <participant role="Supplier" referencedUin="design:view:::iddcpq5e3nlz5u3e3nm07b1"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkid7pyhge3p75ftfe3p7bsna">
+        <participant role="Supplier" referencedUin="design:view:::ida9tise3nlz5u3e3nm039n"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg7pue3nlz5u3e3nm07hz.linkid5ntc6e3p75ftfe3p7bsna">
+        <participant role="Supplier" referencedUin="design:view:::id2n0oce3nlz5u3e3nm07dn"/>
+        <participant role="Client" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="iddg7pue3nlz5u3e3nm07hz">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idehppve3nlz5u3e3nm07jq">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.model.user"/>
+            <property name="bounds" value="10,10,83,104"/>
+        </reference>
+        <reference df-class-name="reference6" referencedUin="design:view:::idbuqjie3vl5hh3e3vrorqs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.model.document"/>
+            <property name="bounds" value="113,10,83,104"/>
+        </reference>
+        <reference df-class-name="reference7" referencedUin="design:view:::idgoakxe3vl5hh3e3vrorrn">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.model.documents"/>
+            <property name="bounds" value="10,150,112,104"/>
+        </reference>
+        <reference df-class-name="reference8" referencedUin="design:view:::id85l2re48xe0age48xe6se">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.model.relation"/>
+            <property name="bounds" value="216,10,91,104"/>
+        </reference>
+        <reference df-class-name="reference1" referencedUin="design:view:::idc0prte4bygl64e4bygv0p">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:EDMIS:src:com.progdan.edmis.model.language"/>
+            <property name="bounds" value="407,339,83,104"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

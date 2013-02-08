@@ -1,0 +1,153 @@
+.htmlarea {
+	BACKGROUND: #fff
+}
+.htmlarea .toolbar {
+	BORDER-RIGHT: buttonshadow 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: buttonhighlight 1px solid; PADDING-LEFT: 1px; BACKGROUND: buttonface; PADDING-BOTTOM: 2px; BORDER-LEFT: buttonhighlight 1px solid; CURSOR: default; PADDING-TOP: 1px; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.htmlarea .toolbar TABLE {
+	FONT-SIZE: 11px; FONT-FAMILY: tahoma,verdana,sans-serif
+}
+.htmlarea .toolbar IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.htmlarea .toolbar .label {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.htmlarea .toolbar .button {
+	BORDER-RIGHT: buttonface 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: buttonface 1px solid; PADDING-LEFT: 1px; BACKGROUND: buttonface; PADDING-BOTTOM: 1px; MARGIN: 0px; BORDER-LEFT: buttonface 1px solid; COLOR: buttontext; PADDING-TOP: 1px; BORDER-BOTTOM: buttonface 1px solid
+}
+.htmlarea .toolbar .buttonHover {
+	BORDER-RIGHT: buttonshadow 1px solid; BORDER-TOP: buttonhighlight 1px solid; BORDER-LEFT: buttonhighlight 1px solid; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.htmlarea .toolbar .buttonActive {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; BORDER-LEFT: buttonshadow 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: buttonhighlight 1px solid
+}
+.htmlarea .toolbar .buttonPressed {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; BORDER-LEFT: buttonshadow 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: buttonhighlight 1px solid
+}
+.htmlarea .toolbar .buttonPressed {
+	BACKGROUND: buttonhighlight
+}
+.htmlarea .toolbar .indicator {
+	BORDER-RIGHT: buttonshadow 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; BORDER-LEFT: buttonshadow 1px solid; WIDTH: 20px; CURSOR: default; PADDING-TOP: 0px; BORDER-BOTTOM: buttonshadow 1px solid; TEXT-ALIGN: center
+}
+.htmlarea .toolbar .buttonDisabled {
+	BACKGROUND-COLOR: #aaa
+}
+.htmlarea .toolbar .buttonDisabled IMG {
+	FILTER: alpha(opacity = 25); moz-opacity: 25%
+}
+.htmlarea .toolbar .separator {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 3px; BORDER-LEFT: buttonshadow 1px solid; WIDTH: 0px; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 16px
+}
+.htmlarea .toolbar .space {
+	WIDTH: 5px
+}
+.htmlarea .toolbar SELECT {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.htmlarea .toolbar SELECT {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: buttontext
+}
+.htmlarea .toolbar SELECT:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: buttontext
+}
+.htmlarea .toolbar SELECT:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: buttontext
+}
+.htmlarea .statusBar {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; FONT: 11px Tahoma,Verdana,sans-serif; BORDER-LEFT: buttonshadow 1px solid; COLOR: buttontext; PADDING-TOP: 2px; BORDER-BOTTOM: buttonhighlight 1px solid; BACKGROUND-COLOR: buttonface
+}
+.htmlarea .statusBar .statusBarTree A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; COLOR: #00f; PADDING-TOP: 2px
+}
+.htmlarea .statusBar .statusBarTree A:visited {
+	COLOR: #00f
+}
+.htmlarea .statusBar .statusBarTree A:hover {
+	BORDER-RIGHT: highlighttext 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: highlighttext 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; BORDER-LEFT: highlighttext 1px solid; COLOR: highlighttext; PADDING-TOP: 1px; BORDER-BOTTOM: highlighttext 1px solid; BACKGROUND-COLOR: highlight
+}
+.dialog {
+	BACKGROUND: buttonface; COLOR: buttontext
+}
+.dialog .content {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+.dialog {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog BUTTON {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog INPUT {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog SELECT {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog TEXTAREA {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog TABLE {
+	FONT: 11px Tahoma,Verdana,sans-serif
+}
+.dialog TABLE {
+	BORDER-COLLAPSE: collapse
+}
+.dialog .title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #008; PADDING-BOTTOM: 2px; CURSOR: default; COLOR: #ff8; PADDING-TOP: 1px; BORDER-BOTTOM: #000 1px solid
+}
+.dialog .title .button {
+	BORDER-RIGHT: #66a 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #66a 1px solid; PADDING-LEFT: 2px; FLOAT: right; PADDING-BOTTOM: 0px; BORDER-LEFT: #66a 1px solid; COLOR: #fff; MARGIN-RIGHT: 1px; PADDING-TOP: 0px; BORDER-BOTTOM: #66a 1px solid; TEXT-ALIGN: center
+}
+.dialog .title .button-hilite {
+	BORDER-LEFT-COLOR: #88f; BACKGROUND: #44c; BORDER-BOTTOM-COLOR: #88f; BORDER-TOP-COLOR: #88f; BORDER-RIGHT-COLOR: #88f
+}
+.dialog BUTTON {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 5em; PADDING-TOP: 0px
+}
+.dialog .buttonColor {
+	BORDER-RIGHT: buttonshadow 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: buttonhighlight 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: buttonhighlight 1px solid; CURSOR: default; PADDING-TOP: 1px; BORDER-BOTTOM: buttonshadow 1px solid
+}
+.dialog .buttonColor-hilite {
+	BORDER-LEFT-COLOR: #000; BORDER-BOTTOM-COLOR: #000; BORDER-TOP-COLOR: #000; BORDER-RIGHT-COLOR: #000
+}
+.dialog .buttonColor .chooser {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; BORDER-LEFT: buttonshadow 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: buttonhighlight 1px solid; HEIGHT: 0.6em
+}
+.dialog .buttonColor .nocolor {
+	BORDER-RIGHT: buttonhighlight 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: buttonshadow 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; BORDER-LEFT: buttonshadow 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: buttonhighlight 1px solid; HEIGHT: 0.6em
+}
+.dialog .buttonColor .nocolor {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.dialog .buttonColor .nocolor-hilite {
+	COLOR: #f00; BACKGROUND-COLOR: #fff
+}
+.dialog .label {
+	WIDTH: 6em; TEXT-ALIGN: right
+}
+.dialog .value INPUT {
+	WIDTH: 100%
+}
+.dialog .buttons {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px; TEXT-ALIGN: right
+}
+.dialog LEGEND {
+	FONT-WEIGHT: bold
+}
+.dialog FIELDSET TABLE {
+	MARGIN: 2px 0px
+}
+.popupdiv {
+	BORDER-RIGHT: buttonshadow 2px solid; BORDER-TOP: buttonhighlight 2px solid; BORDER-LEFT: buttonhighlight 2px solid; BORDER-BOTTOM: buttonshadow 2px solid
+}
+.popupwin {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.popupwin .title {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 120%; BACKGROUND: #fff; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 3px; COLOR: #000; PADDING-TOP: 3px; BORDER-BOTTOM: black 1px solid; LETTER-SPACING: 2px
+}
+FORM {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN: 0px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="id62081e3p75ftfe3p75qa6">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.edmis.control.crypt.JCrypt">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference3" referencedUin="jdt:e_class:src:com.progdan.edmis.control.crypt.EncryptApplet">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

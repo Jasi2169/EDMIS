@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id1lkd4e3p75ftfe3p75qei.linkid77yn0e4e2i43ve4e2j9ki">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::ida9tise3nlz5u3e3nm039n"/>
+        <participant role="Client" referencedUin="design:view:::id1lkd4e3p75ftfe3p75qei"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1lkd4e3p75ftfe3p75qei.linkid5fl3se4e2i43ve4e2j9ki">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddcpq5e3nlz5u3e3nm07b1"/>
+        <participant role="Client" referencedUin="design:view:::id1lkd4e3p75ftfe3p75qei"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1lkd4e3p75ftfe3p75qei.linkidfggtme4e2i43ve4e2j9kx">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id2n0oce3nlz5u3e3nm07dn"/>
+        <participant role="Client" referencedUin="design:view:::id1lkd4e3p75ftfe3p75qei"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1lkd4e3p75ftfe3p75qei.linkiditgj4e4e2i43ve4e2j9ld">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id7a4r2e3p75ftfe3p75q5e"/>
+        <participant role="Client" referencedUin="design:view:::id1lkd4e3p75ftfe3p75qei"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1lkd4e3p75ftfe3p75qei.linkid4omj2e4e2i43ve4e2j9ld">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjudtwe3nlz5u3e3nm07fe"/>
+        <participant role="Client" referencedUin="design:view:::id1lkd4e3p75ftfe3p75qei"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id1lkd4e3p75ftfe3p75qei">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.edmis.control.mail.SignupMailController">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,10,200,190"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.mail.SignupMailController:instance">
+                <property name="sourceAnchor" value="172,200"/>
+                <property name="bendpoints" value="172,248,258,248,258,162"/>
+                <property name="targetAnchor" value="210,162"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.mail.SignupMailController:_signupMailController">
+                <property name="sourceAnchor" value="134,200"/>
+                <property name="bendpoints" value="134,286,296,286,296,124"/>
+                <property name="targetAnchor" value="210,124"/>
+                <property name="bounds_setted_by_user" value="true"/>
+                <reference referencedUin="linklabel:supplierRole:jdt:l_ast:src:com.progdan.edmis.control.mail.SignupMailController:_signupMailController">
+                    <property name="bounds" value="214,124,98,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

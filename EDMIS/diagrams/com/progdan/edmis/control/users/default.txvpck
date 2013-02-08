@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkidjh14ge475jtbae475ndrf">
+        <participant role="Supplier" referencedUin="design:view:::id2n0oce3nlz5u3e3nm07dn"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkid8o0b4e475jtbae475ndtx">
+        <participant role="Supplier" referencedUin="design:view:::ida9tise3nlz5u3e3nm039n"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkidftfv3e475jtbae475ndv2">
+        <participant role="Supplier" referencedUin="design:view:::idglcxce3p75ftfe3p75qcs"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkid5qhi9e475jtbae475ndvw">
+        <participant role="Supplier" referencedUin="design:view:::iddcpq5e3nlz5u3e3nm07b1"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkid4up3be475jtbae475ndxa">
+        <participant role="Supplier" referencedUin="design:view:::idjudtwe3nlz5u3e3nm07fe"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkidiwmb6e475jtbae475ndye">
+        <participant role="Supplier" referencedUin="design:view:::id7a4r2e3p75ftfe3p75q5e"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkideylrze4e2i43ve4e2j9rv">
+        <participant role="Supplier" referencedUin="design:view:::iddg7pue3nlz5u3e3nm07hz"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjbkk3e3uckzy6e3ucl4d1.linkidh3zr4e4e2i43ve4e2j9rv">
+        <participant role="Supplier" referencedUin="design:view:::idehppve3nlz5u3e3nm07jq"/>
+        <participant role="Client" referencedUin="design:view:::idjbkk3e3uckzy6e3ucl4d1"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idjbkk3e3uckzy6e3ucl4d1">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.edmis.control.users.NewUsersController">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,10,200,174"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.users.NewUsersController:instance">
+                <property name="sourceAnchor" value="176,184"/>
+                <property name="bendpoints" value="176,228,254,228,254,150"/>
+                <property name="targetAnchor" value="210,150"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.users.NewUsersController:_newUsersController">
+                <property name="sourceAnchor" value="142,184"/>
+                <property name="bendpoints" value="142,262,288,262,288,116"/>
+                <property name="targetAnchor" value="210,116"/>
+                <property name="bounds_setted_by_user" value="true"/>
+                <reference referencedUin="linklabel:supplierRole:jdt:l_ast:src:com.progdan.edmis.control.users.NewUsersController:_newUsersController">
+                    <property name="bounds" value="214,116,98,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+        </reference>
+        <reference df-class-name="reference10" referencedUin="jdt:e_class:src:com.progdan.edmis.control.users.OnlineUsersController">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="358,10,200,174"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.users.OnlineUsersController:instance">
+                <property name="sourceAnchor" value="524,184"/>
+                <property name="bendpoints" value="524,228,602,228,602,150"/>
+                <property name="targetAnchor" value="558,150"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.edmis.control.users.OnlineUsersController:_onlineUsersController">
+                <property name="sourceAnchor" value="490,184"/>
+                <property name="bendpoints" value="490,262,636,262,636,116"/>
+                <property name="targetAnchor" value="558,116"/>
+                <property name="bounds_setted_by_user" value="true"/>
+                <reference referencedUin="linklabel:supplierRole:jdt:l_ast:src:com.progdan.edmis.control.users.OnlineUsersController:_onlineUsersController">
+                    <property name="bounds" value="562,116,98,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+        </reference>
+        <reference df-class-name="reference12" referencedUin="jdt:e_class:src:com.progdan.edmis.control.users.UserGroupReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,310,143,158"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

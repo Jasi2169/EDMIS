@@ -1,0 +1,417 @@
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 13px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #c6bda8
+}
+UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 5px
+}
+A:link {
+	COLOR: #0033cc; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #0033cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+FORM {
+	MARGIN-BOTTOM: 0px
+}
+INPUT {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+H2 {
+	BORDER-RIGHT: #c6bda8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #c6bda8 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 3px; BORDER-LEFT: #c6bda8 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #c6bda8 1px solid; BACKGROUND-COLOR: #fef9f6
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px
+}
+.highlight {
+	BACKGROUND-COLOR: #849dbc
+}
+.headingblock {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e3dfd4
+}
+.navbar {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e3dfd4
+}
+.generaltable {
+	
+}
+.generaltableheader {
+	
+}
+.generaltablecell {
+	
+}
+.sideblock {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.sideblockheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e3dfd4
+}
+.sideblockmain {
+	BACKGROUND-COLOR: #ffffff; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.sideblocklinks {
+	BACKGROUND-COLOR: #ffffff
+}
+.sideblocklatestnews {
+	BACKGROUND-COLOR: #ffffff; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.sideblockrecentactivity {
+	BACKGROUND-COLOR: #ffffff; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.outlineheadingblock {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; moz-border-radius: 3px
+}
+.forumpost {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.forumpostpicture {
+	BACKGROUND-COLOR: #c6bda8
+}
+.forumpostside {
+	BACKGROUND-COLOR: #e3dfd4; moz-border-radius-bottomleft: 20px
+}
+.forumpostmessage {
+	moz-border-radius-bottomright: 20px
+}
+.weeklyoutline {
+	
+}
+.weeklyoutlineside {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.weeklyoutlinesidehighlight {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.weeklyoutlinesidehidden {
+	BORDER-RIGHT: #c6bda8 1px dashed; BORDER-TOP: #c6bda8 1px dashed; BORDER-LEFT: #c6bda8 1px dashed; BORDER-BOTTOM: #c6bda8 1px dashed
+}
+.weeklyoutlinecontent {
+	BORDER-RIGHT: #c6bda8 0px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 0px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.weeklyoutlinecontenthighlight {
+	BORDER-RIGHT: #c6bda8 0px solid; BORDER-TOP: #c6bda8 1px solid; BACKGROUND: #ffffff; BORDER-LEFT: #c6bda8 0px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.weeklyoutlinecontenthidden {
+	BORDER-RIGHT: #c6bda8 0px dashed; BORDER-TOP: #c6bda8 1px dashed; BACKGROUND: #f7f6f1; BORDER-LEFT: #c6bda8 0px dashed; BORDER-BOTTOM: #c6bda8 1px dashed
+}
+.weeklydatetext {
+	FONT-WEIGHT: bold
+}
+.topicsoutline {
+	
+}
+.topicsoutlineside {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.topicsoutlinesidehighlight {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.topicsoutlinesidehidden {
+	BORDER-RIGHT: #c6bda8 1px dashed; BORDER-TOP: #c6bda8 1px dashed; BORDER-LEFT: #c6bda8 1px dashed; BORDER-BOTTOM: #c6bda8 1px dashed
+}
+.topicsoutlinecontent {
+	BORDER-RIGHT: #c6bda8 0px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 0px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.topicsoutlinecontenthighlight {
+	BORDER-RIGHT: #c6bda8 0px solid; BORDER-TOP: #c6bda8 1px solid; BACKGROUND: #ffffff; BORDER-LEFT: #c6bda8 0px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.topicsoutlinecontenthidden {
+	BORDER-RIGHT: #c6bda8 0px dashed; BORDER-TOP: #c6bda8 1px dashed; BORDER-LEFT: #c6bda8 0px dashed; BORDER-BOTTOM: #c6bda8 1px dashed; BACKGROUND-COLOR: #f7f6f1
+}
+.siteinfo {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.siteinfocontent {
+	BACKGROUND-COLOR: #ffffff; moz-border-radius: 20px
+}
+.generalbox {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; BACKGROUND-COLOR: #fef9f6; moz-border-radius-bottomleft: 15px; moz-border-radius-bottomright: 15px; moz-border-radius-topleft: 3px; moz-border-radius-topright: 3px
+}
+.generalboxcontent {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #ffffff; moz-border-radius-bottomleft: 15px; moz-border-radius-bottomright: 15px; moz-border-radius-topleft: 3px; moz-border-radius-topright: 3px
+}
+.noticebox {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 3px
+}
+.noticeboxcontent {
+	TEXT-ALIGN: center
+}
+.feedbacktext {
+	COLOR: #849dbc
+}
+A.dimmed:link {
+	COLOR: #aaaaaa; TEXT-DECORATION: none
+}
+A.dimmed:visited {
+	COLOR: #aaaaaa; TEXT-DECORATION: none
+}
+A.dimmed:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+.dimmed_text {
+	COLOR: #aaaaaa
+}
+.forumpostheader {
+	
+}
+.forumpostheadertopic {
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #c6bda8
+}
+.forumpostheaderpicture {
+	BACKGROUND-COLOR: #fef9f6
+}
+.forumpostheadername {
+	BACKGROUND-COLOR: #fef9f6
+}
+.forumpostheaderreplies {
+	
+}
+.forumpostheaderdate {
+	BACKGROUND-COLOR: #fef9f6
+}
+.logininfo {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.homelink {
+	FONT-SIZE: 11px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.teacheronly {
+	COLOR: #990000
+}
+.header {
+	BACKGROUND-COLOR: #f7f6f1
+}
+.headermain {
+	FONT-WEIGHT: bold
+}
+.headermenu {
+	
+}
+.headerhome {
+	BACKGROUND-COLOR: #f7f6f1
+}
+.headerhomemain {
+	FONT-WEIGHT: bold
+}
+.headerhomemenu {
+	
+}
+.categorybox {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.categoryboxcontent {
+	
+}
+.categoryname {
+	FONT-WEIGHT: bold
+}
+.categorynumber {
+	FONT-WEIGHT: bold
+}
+.coursename {
+	
+}
+.coursebox {
+	
+}
+.courseboxcontent {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 20px
+}
+.courseboxinfo {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.courseboxsummary {
+	
+}
+A.autolink:link {
+	CURSOR: help; COLOR: #000000; BORDER-BOTTOM: #000000 1px dashed; BACKGROUND-COLOR: #fef9f6; TEXT-DECORATION: none
+}
+A.autolink:visited {
+	CURSOR: help; COLOR: #000000; BORDER-BOTTOM: #000000 1px dashed; BACKGROUND-COLOR: #fef9f6; TEXT-DECORATION: none
+}
+A.autolink:hover {
+	CURSOR: help; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; TEXT-DECORATION: none
+}
+.userinfobox {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; MARGIN-BOTTOM: 5px; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.userinfoboxside {
+	moz-border-radius-bottomleft: 20px
+}
+.userinfoboxcontent {
+	moz-border-radius-bottomright: 20px
+}
+.userinfoboxsummary {
+	
+}
+.userinfoboxlinkcontent {
+	moz-border-radius-bottomright: 20px
+}
+.generaltab {
+	moz-border-radius-topleft: 15px; moz-border-radius-topright: 15px
+}
+.generaltabselected {
+	moz-border-radius-topleft: 15px; moz-border-radius-topright: 15px
+}
+.forumheaderlist {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.smallinfo {
+	
+}
+.smallinfohead {
+	COLOR: #555555
+}
+.tabledivider {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: #c6bda8 1px solid
+}
+.headingblockcontent {
+	
+}
+TABLE.calendarmini {
+	BORDER-RIGHT: #c6bda8 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c6bda8 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 100%; PADDING-TOP: 2px; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 10px
+}
+TABLE.calendarmonth {
+	BORDER-RIGHT: #c6bda8 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #c6bda8 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 10px
+}
+TABLE.calendarmini TBODY TD {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 14%; BORDER-BOTTOM: #c6bda8 1px solid; TEXT-ALIGN: center; moz-border-radius: 4px
+}
+TABLE.calendarmonth TBODY TD {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; VERTICAL-ALIGN: top; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 14%; BORDER-BOTTOM: #c6bda8 1px solid; BACKGROUND-COLOR: #f7f6f1
+}
+TABLE.calendarmonth TBODY TD TABLE {
+	MARGIN-TOP: 0px; FONT-SIZE: 10px; MARGIN-LEFT: 0px; LINE-HEIGHT: 1.2em
+}
+TABLE.calendarmonth TBODY TD TABLE TD {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+TABLE.calendarmonth TBODY TD DIV {
+	MARGIN-TOP: 0px; FONT-SIZE: 10px; MARGIN-LEFT: 0px; LINE-HEIGHT: 1.2em
+}
+TABLE.calendarmini THEAD TD {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-ALIGN: center
+}
+TABLE.calendarmonth THEAD TD {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 3px; BORDER-BOTTOM: #c6bda8 2px solid; BACKGROUND-COLOR: #f7f6f1; TEXT-ALIGN: center
+}
+.sideblockmain .cal_event {
+	
+}
+.sideblockmain .cal_event_date {
+	
+}
+.cal_event_global {
+	BORDER-RIGHT: #009999 2px solid; BORDER-TOP: #009999 2px solid; BORDER-LEFT: #009999 2px solid; BORDER-BOTTOM: #009999 2px solid; BACKGROUND-COLOR: #009999! important
+}
+.cal_event_course {
+	BORDER-RIGHT: #ff3333 2px solid; BORDER-TOP: #ff3333 2px solid; BORDER-LEFT: #ff3333 2px solid; BORDER-BOTTOM: #ff3333 2px solid; BACKGROUND-COLOR: #ff3333! important
+}
+.cal_event_group {
+	BORDER-RIGHT: #ffcc33 2px solid; BORDER-TOP: #ffcc33 2px solid; BORDER-LEFT: #ffcc33 2px solid; BORDER-BOTTOM: #ffcc33 2px solid; BACKGROUND-COLOR: #ffcc33! important
+}
+.cal_event_user {
+	BORDER-RIGHT: #99ccff 2px solid; BORDER-TOP: #99ccff 2px solid; BORDER-LEFT: #99ccff 2px solid; BORDER-BOTTOM: #99ccff 2px solid; BACKGROUND-COLOR: #99ccff! important
+}
+.cal_duration_global {
+	BORDER-TOP: #009999 2px solid; BORDER-BOTTOM: #009999 2px solid
+}
+.cal_duration_course {
+	BORDER-TOP: #ff3333 2px solid; BORDER-BOTTOM: #ff3333 2px solid
+}
+.cal_duration_user {
+	BORDER-TOP: #99ccff 2px solid; BORDER-BOTTOM: #99ccff 2px solid
+}
+.cal_duration_group {
+	BORDER-TOP: #ffcc33 2px solid; BORDER-BOTTOM: #ffcc33 2px solid
+}
+.cal_weekend {
+	COLOR: red
+}
+.cal_today {
+	BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px solid; BORDER-LEFT: black 2px solid; BORDER-BOTTOM: black 2px solid
+}
+.mycalendar {
+	BACKGROUND-COLOR: #ffffff; moz-border-radius-bottomleft: 20px; moz-border-radius-bottomright: 20px
+}
+.mycalendar .cal_event {
+	FONT-WEIGHT: bold
+}
+.mycalendar .cal_event_date {
+	FONT-SIZE: 10px
+}
+.mycalendar TABLE.cal_filters {
+	BORDER-RIGHT: #c6bda8 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c6bda8 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 100%; PADDING-TOP: 2px; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 10px
+}
+.mycalendar .cal_filters THEAD TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 2px; BORDER-BOTTOM: #c6bda8 2px solid
+}
+.mycalendar .cal_event_table {
+	BORDER-RIGHT: #c6bda8 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c6bda8 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #c6bda8 1px solid; WIDTH: 100%; PADDING-TOP: 2px; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius: 10px
+}
+.mycalendar .cal_event_table THEAD {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.sideblockmain HR {
+	BORDER-RIGHT: medium none; BORDER-TOP: #999 1px solid; MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px
+}
+.mycalendar HR {
+	BORDER-RIGHT: medium none; BORDER-TOP: #999 1px solid; MARGIN-TOP: 4px; MARGIN-BOTTOM: 4px; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; HEIGHT: 1px
+}
+.calendarexpired {
+	FONT-WEIGHT: bold; COLOR: red
+}
+.calendarreferer {
+	FONT-WEIGHT: bold
+}
+TD.cal_event_description {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: top; BORDER-LEFT: #c6bda8 2px solid; WIDTH: 80%; PADDING-TOP: 5px
+}
+.cal_popup_fg {
+	BACKGROUND-COLOR: #ffffff
+}
+.cal_popup_bg {
+	BORDER-RIGHT: #663300 2px solid; PADDING-RIGHT: 0px; BORDER-TOP: #c6bda8 2px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #c6bda8 2px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #663300 2px solid; BACKGROUND-COLOR: #e3dfd4
+}
+.cal_popup_caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e3dfd4
+}
+.cal_popup_close {
+	FONT-WEIGHT: bold; FONT-SIZE: 75%; MARGIN-RIGHT: 5px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.sideblock .cal_controls {
+	FONT-SIZE: 8px
+}
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+TABLE.formtable TD {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 9px; PADDING-BOTTOM: 9px; PADDING-TOP: 9px
+}
+.eventfull {
+	BORDER-RIGHT: #c6bda8 1px solid; BORDER-TOP: #c6bda8 1px solid; BORDER-LEFT: #c6bda8 1px solid; BORDER-BOTTOM: #c6bda8 1px solid; moz-border-radius-bottomleft: 15px; moz-border-radius-bottomright: 15px
+}
+.eventfullheader {
+	
+}
+.eventfullpicture {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+.eventfullside {
+	moz-border-radius-bottomleft: 15px
+}
+.eventfullmessage {
+	moz-border-radius-bottomright: 15px
+}
