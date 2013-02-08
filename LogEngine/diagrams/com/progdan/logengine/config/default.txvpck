@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id7ns8be290ybvke2911cg0.linkid4bwcie290ybvke2911vhb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id7ns8be290ybvke2911cg0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7ns8be290ybvke2911cg0.linkid5s7ine290ybvke2911vhb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id7ns8be290ybvke2911cg0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7ns8be290ybvke2911cg0.linkidatsnne290ybvke2911vhb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id7ns8be290ybvke2911cg0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7ns8be290ybvke2911cg0.linkid4z5pre290ybvke2911vhb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id7ns8be290ybvke2911cg0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id7ns8be290ybvke2911cg0">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference205" referencedUin="jdt:e_class:src:com.progdan.logengine.config.PropertySetter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference234" referencedUin="jdt:e_class:src:com.progdan.logengine.config.PropertyGetter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference286" referencedUin="jdt:e_class:src:com.progdan.logengine.config.PropertySetterException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference326" referencedUin="jdt:e_class:src:com.progdan.logengine.config.PropertyPrinter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

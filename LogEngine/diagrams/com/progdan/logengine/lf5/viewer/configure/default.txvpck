@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id5zdt7e290ybvke2911co8.linkidbzmeye290ybvke2911vop">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkideypr4e290ybvke2911vop">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkid2f2ize290ybvke2911vp5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkid7kaive290ybvke2911vp5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkidg8cble290ybvke2911vp5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkid9brpfe290ybvke2911vp5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi0bofe290ybvke2911cln"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id5zdt7e290ybvke2911co8.linkidez57ke290ybvke2911vp5">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <participant role="Client" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id5zdt7e290ybvke2911co8">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.configure.ConfigurationManager">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference355" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.configure.MRUFileManager">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

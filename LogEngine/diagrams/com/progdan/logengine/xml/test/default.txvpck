@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idgk0d2e290ybvke2911d0e.linkidejws8e290ybvke2911vxt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::idgk0d2e290ybvke2911d0e"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgk0d2e290ybvke2911d0e.linkidd53qce290ybvke2911vxt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::idgk0d2e290ybvke2911d0e"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgk0d2e290ybvke2911d0e.linkid1akswe290ybvke2911vxt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::idgk0d2e290ybvke2911d0e"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgk0d2e290ybvke2911d0e.linkidar954e290ybvke2911vy9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::idgk0d2e290ybvke2911d0e"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idgk0d2e290ybvke2911d0e">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idech90e290ybvke2911d0u">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.xml.test.witness"/>
+        </reference>
+        <reference df-class-name="reference287" referencedUin="jdt:e_class:src:com.progdan.logengine.xml.test.DOMTest">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id9t7npe290ybvke2911cnt.linkidh3j6pe290ybvke2911vnu">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9t7npe290ybvke2911cnt.linkida1tjme290ybvke2911vnu">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9t7npe290ybvke2911cnt.linkidhay3de290ybvke2911vnu">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9t7npe290ybvke2911cnt.linkidi47gee290ybvke2911vo9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9t7npe290ybvke2911cnt.linkidfsgs4e290ybvke2911vo9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9t7npe290ybvke2911cnt.linkiddx833e290ybvke2911vo9">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi0bofe290ybvke2911cln"/>
+        <participant role="Client" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id9t7npe290ybvke2911cnt">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryNode">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference227" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryExplorerLogRecordFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference270" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryNodeEditor">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference293" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryElement">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference299" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryPath">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference301" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryNodeEditorRenderer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference303" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryImmediateEditor">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference315" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryNodeRenderer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference320" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.TreeModelAdapter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference324" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryAbstractCellEditor">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference330" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryExplorerTree">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference341" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.categoryexplorer.CategoryExplorerModel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

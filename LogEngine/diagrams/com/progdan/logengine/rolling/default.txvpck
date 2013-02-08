@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <view uin="id7oenme290ybvke2911cub">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idi49uje290ybvke2911cur">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.rolling.helpers"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

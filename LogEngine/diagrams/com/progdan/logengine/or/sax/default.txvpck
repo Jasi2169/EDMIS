@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id8c8zze290ybvke2911cs5.linkidb0qv1e290ybvke2911vsm">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id8c8zze290ybvke2911cs5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8c8zze290ybvke2911cs5.linkiddono4e290ybvke2911vsm">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id8c8zze290ybvke2911cs5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8c8zze290ybvke2911cs5.linkidfol5je290ybvke2911vt1">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id8c8zze290ybvke2911cs5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8c8zze290ybvke2911cs5.linkidc05ike290ybvke2911vt1">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idhoua1e290ybvke2911cqu"/>
+        <participant role="Client" referencedUin="design:view:::id8c8zze290ybvke2911cs5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id8c8zze290ybvke2911cs5.linkid7k3xze290ybvke2911vt1">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id8c8zze290ybvke2911cs5"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id8c8zze290ybvke2911cs5">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.logengine.or.sax.AttributesRenderer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

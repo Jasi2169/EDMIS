@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idcm7nwe290ybvke2911cp4.linkid3j2rae290ybvke2911vpk">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcm7nwe290ybvke2911cp4.linkideo35ie290ybvke2911vq0">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcm7nwe290ybvke2911cp4.linkidfw86re290ybvke2911vq0">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcm7nwe290ybvke2911cp4.linkid8840ze290ybvke2911vq0">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcm7nwe290ybvke2911cp4.linkid3bsupe290ybvke2911vq0">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idcm7nwe290ybvke2911cp4.linkid1cegpe290ybvke2911vq0">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <participant role="Client" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idcm7nwe290ybvke2911cp4">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idhoa71e290ybvke2911cpj">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.net.test"/>
+        </reference>
+        <reference df-class-name="reference200" referencedUin="jdt:e_class:src:com.progdan.logengine.net.DefaultEvaluator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference222" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SyslogAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference224" referencedUin="jdt:e_class:src:com.progdan.logengine.net.TelnetAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference252" referencedUin="jdt:e_class:src:com.progdan.logengine.net.JMSAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference257" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SocketServer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference283" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SocketHubAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference291" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SocketAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference300" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SocketNode">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference336" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SMTPAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference343" referencedUin="jdt:e_class:src:com.progdan.logengine.net.SimpleSocketServer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference344" referencedUin="jdt:e_class:src:com.progdan.logengine.net.JMSSink">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

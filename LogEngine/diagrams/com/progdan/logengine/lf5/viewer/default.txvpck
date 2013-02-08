@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id18noje290ybvke2911cmy.linkid5vhuxe290ybvke2911vmz">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkid7dpqe290ybvke2911vmz">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkid7vl6we290ybvke2911vmz">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkidf9wk5e290ybvke2911vne">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkidg7w5ie290ybvke2911vne">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkid7thkle290ybvke2911vne">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idi0bofe290ybvke2911cln"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkidiy5v0e290ybvke2911vne">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id8gjgve290ybvke2911cmi"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id18noje290ybvke2911cmy.linkida4cj5e290ybvke291bj37">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <participant role="Client" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id18noje290ybvke2911cmy">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id9t7npe290ybvke2911cnt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.lf5.viewer.categoryexplorer"/>
+        </reference>
+        <reference df-class-name="reference26" referencedUin="design:view:::id5zdt7e290ybvke2911co8">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.lf5.viewer.configure"/>
+        </reference>
+        <reference df-class-name="reference33" referencedUin="design:view:::idgmfqre290ybvke2911coo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.lf5.viewer.images"/>
+        </reference>
+        <reference df-class-name="reference207" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogBrokerMonitor">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference209" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogTableModel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference240" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogFactor5ErrorDialog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference243" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LF5SwingUtils">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference250" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.FilteredLogTableModel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference254" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogTableColumnFormatException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference256" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogFactor5Dialog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference276" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogTable">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference279" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogTableRowRenderer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference298" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogFactor5InputDialog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference304" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.TrackingAdjustmentListener">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference307" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogFactor5LoadingDialog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference362" referencedUin="jdt:e_class:src:com.progdan.logengine.lf5.viewer.LogTableColumn">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

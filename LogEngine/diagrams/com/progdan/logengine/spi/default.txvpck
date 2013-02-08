@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id9ig1ie290ybvke2911cxs.linkid1p9ege290ybvke2911vuc">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9ig1ie290ybvke2911cxs.linkid4rkt4e290ybvke2911vus">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9ig1ie290ybvke2911cxs.linkid6yvree290ybvke2911vus">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9ig1ie290ybvke2911cxs.linkid3fa6xe290ybvke2911vus">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idhoua1e290ybvke2911cqu"/>
+        <participant role="Client" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9ig1ie290ybvke2911cxs.linkid4g8eoe290ybvke2911vus">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id9ig1ie290ybvke2911cxs">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idcvl5ye290ybvke2911cy8">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.spi.location"/>
+        </reference>
+        <reference df-class-name="reference190" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.RootLogger">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference198" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.VectorWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference204" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.Configurator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference212" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.NullWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference226" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.ErrorHandler">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference232" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.OptionHandler">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference246" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.DefaultRepositorySelector">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference255" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.ThrowableInformation">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference258" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.AppenderAttachable">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference290" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.HierarchyEventListener">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference292" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.TriggeringEventEvaluator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference305" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.LoggingEvent">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference322" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.LocationInfo">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference325" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.RepositorySelector">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference334" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.RendererSupport">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference340" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.Filter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference345" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.LoggerFactory">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference353" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.ErrorCode">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference354" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.RootCategory">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference356" referencedUin="jdt:e_class:src:com.progdan.logengine.spi.LoggerRepository">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

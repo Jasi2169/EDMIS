@@ -1,0 +1,9 @@
+logengine.rootCategory=  , testAppender
+logengine.configDebug=true
+logengine.appender.testAppender=com.progdan.logengine.net.SyslogAppender
+logengine.appender.testAppender.SyslogHost=localhost
+logengine.appender.testAppender.Facility=LOCAL0
+logengine.appender.testAppender.FacilityPrinting=
+logengine.appender.testAppender.layout=com.progdan.logengine.TTCCLayout
+logengine.appender.testAppender.layout.DateFormat=NULL
+logengine.appender.testAppender.layout.TimeZone=

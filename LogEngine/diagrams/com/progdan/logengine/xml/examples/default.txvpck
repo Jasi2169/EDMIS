@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id4y43ne290ybvke2911czy.linkidc6b8xe290ybvke2911vxe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id4y43ne290ybvke2911czy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id4y43ne290ybvke2911czy.linkidcc54we290ybvke2911vxe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id4y43ne290ybvke2911czy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id4y43ne290ybvke2911czy.linkidb26twe290ybvke2911vxe">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id4y43ne290ybvke2911czy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id4y43ne290ybvke2911czy.linkidgocn4e290ybvke2911vxt">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id4y43ne290ybvke2911czy"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id4y43ne290ybvke2911czy">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.logengine.xml.examples.ReportParserError">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference319" referencedUin="jdt:e_class:src:com.progdan.logengine.xml.examples.XMLSample">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

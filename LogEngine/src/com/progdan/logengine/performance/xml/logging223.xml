@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE logengine:configuration SYSTEM "logengine.dtd">
+
+<logengine:configuration xmlns:logengine='http://progdan.no-ip.org:25000/'>
+  <appender name="NULL" class="com.progdan.logengine.FileAppender">
+    <param name="File" value="temp"/>
+    <param name="Append" value="false"/>
+    <param name="ImmediateFlush" value="false"/>
+    <param name="BufferedIO" value="true"/>
+    <layout class="com.progdan.logengine.PatternLayout">
+      <param name="ConversionPattern"
+	value="%r [%t] %-5p %c - %m%n"/>
+    </layout>
+  </appender>
+
+  <category name="A0123456789">
+    <priority value ="info" />
+  </category>
+
+  <root>
+    <priority value ="debug" />
+    <appender-ref ref="NULL" />
+  </root>
+
+</logengine:configuration>

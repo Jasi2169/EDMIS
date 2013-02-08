@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id9podje290ybvke2911c86.linkid2jkuge290ybvke2911vg1">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9podje290ybvke2911c86.linkidf6neke290ybvke2911vg1">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9podje290ybvke2911c86.linkid45orce290ybvke2911vgg">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9podje290ybvke2911c86.linkidb2sh2e290ybvke2911vgg">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id9podje290ybvke2911c86.linkidca86se290ybvke2911vgg">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id9podje290ybvke2911c86">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idbgb33e290ybvke2911c9x">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.doc-files"/>
+        </reference>
+        <reference df-class-name="reference2" referencedUin="design:view:::id2qgixe290ybvke2911cf4">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.version"/>
+        </reference>
+        <reference df-class-name="reference3" referencedUin="design:view:::id797pze290ybvke2911ccj">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.layout"/>
+        </reference>
+        <reference df-class-name="reference5" referencedUin="design:view:::id5e6b5e290ybvke2911cde">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.plugins"/>
+        </reference>
+        <reference df-class-name="reference9" referencedUin="design:view:::idhm07se290ybvke2911cbn">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.helper"/>
+        </reference>
+        <reference df-class-name="reference11" referencedUin="design:view:::id4nym6e290ybvke2911cfk">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.vfs"/>
+        </reference>
+        <reference df-class-name="reference13" referencedUin="design:view:::idi532ze290ybvke2911ccy">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.messages"/>
+        </reference>
+        <reference df-class-name="reference16" referencedUin="design:view:::idhh8ehe290ybvke2911cb8">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.help"/>
+        </reference>
+        <reference df-class-name="reference17" referencedUin="design:view:::idgj2tze290ybvke2911c9h">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.dnd"/>
+        </reference>
+        <reference df-class-name="reference18" referencedUin="design:view:::iddhl5ne290ybvke2911cdt">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.prefs"/>
+        </reference>
+        <reference df-class-name="reference27" referencedUin="design:view:::id4gvgje290ybvke2911c92">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.color"/>
+        </reference>
+        <reference df-class-name="reference36" referencedUin="design:view:::id78ouve290ybvke2911cac">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.favourites"/>
+        </reference>
+        <reference df-class-name="reference39" referencedUin="design:view:::idfkys0e290ybvke2911cc3">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.icons"/>
+        </reference>
+        <reference df-class-name="reference43" referencedUin="design:view:::id3aeuae290ybvke2911cas">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.filter"/>
+        </reference>
+        <reference df-class-name="reference47" referencedUin="design:view:::id1kvoge290ybvke2911cep">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.rule"/>
+        </reference>
+        <reference df-class-name="reference49" referencedUin="design:view:::idbatwle290ybvke2911ce9">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw.receivers"/>
+        </reference>
+        <reference df-class-name="reference197" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.ControlPanel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference210" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.MyTableModel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference223" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.LoadXMLAction">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference237" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.Main">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference247" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.EventDetails">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference268" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.XMLFileHandler">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference277" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.ExitAction">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference313" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.LoggingReceiver">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference335" referencedUin="jdt:e_class:src:com.progdan.logengine.chainsaw.DetailPanel">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

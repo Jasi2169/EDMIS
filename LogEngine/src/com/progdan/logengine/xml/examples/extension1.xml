@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- A sample file demonstrating the configuration of Category and
+     Priority sub-classes.  -->
+
+
+
+<logengine:configuration xmlns:logengine="http://progdan.no-ip.org:25000/">
+	<appender name="STDOUT" class="com.progdan.logengine.ConsoleAppender">
+           <layout class="com.progdan.logengine.PatternLayout">
+             <param name="ConversionPattern"
+		    value="%d %-5p [%t] %C{2} (%F:%L) - %m\n"/>
+           </layout>
+	</appender>
+
+	<!-- Note the class attribute! -->
+	<category name="com.progdan.logengine.xml"
+                  class="com.progdan.logengine.xml.examples.XCategory">
+	  <priority value="info" />
+	</category>
+
+	<root>
+	   <priority value ="trace"
+                     class="com.progdan.logengine.xml.examples.XPriority"/>
+   	   <appender-ref ref="STDOUT" />
+	</root>
+
+</logengine:configuration>

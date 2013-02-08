@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE logengine:configuration SYSTEM "logengine.dtd">
+
+<!-- PropertyConfigurator equivalent:
+logengine.rootCategory=, NULL
+logengine.category.A0123456789=INFO
+logengine.appender.NULL=com.progdan.logengine.performance.NullAppender
+logengine.appender.NULL.layout=com.progdan.logengine.SimpleLayout
+-->
+
+<logengine:configuration xmlns:logengine="http://progdan.no-ip.org:25000/">
+
+  <appender name="NULL" class="com.progdan.logengine.performance.NullAppender">
+    <layout class="com.progdan.logengine.SimpleLayout"/>
+  </appender>
+
+  <root>
+    <priority value ="debug" />
+    <appender-ref ref="NULL" />
+  </root>
+
+</logengine:configuration>

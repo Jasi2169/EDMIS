@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE logengine:configuration SYSTEM "logengine.dtd" [
+  <!ENTITY XCategory "org.logengine.xml.examples.XCategory">
+]>
+
+
+<!-- A sample file demonstrating the configuration of Category and
+     Priority sub-classes.  -->
+
+
+
+<logengine:configuration xmlns:logengine="http://progdan.no-ip.org:25000/">
+	<appender name="STDOUT" class="com.progdan.logengine.ConsoleAppender">
+           <layout class="com.progdan.logengine.PatternLayout">
+             <param name="ConversionPattern"
+		    value="%d %-5p [%t] %c %C{3} (%F:%L) - %m\n"/>
+           </layout>
+	</appender>
+
+	<category name="some.cat"
+                  class="com.progdan.logengine.xml.examples.XCategory">
+	  <priority value="TRACE"
+                   class="com.progdan.logengine.xml.examples.XPriority"/>
+          <param name="Suffix"
+                 value=" (Freedom as in the capacity to exercise choice.)"/>
+	</category>
+
+	<root>
+	   <priority value ="trace"
+                     class="com.progdan.logengine.xml.examples.XPriority"/>
+   	   <appender-ref ref="STDOUT" />
+	</root>
+
+</logengine:configuration>

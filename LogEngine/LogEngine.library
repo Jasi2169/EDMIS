@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>LogEngine</fullname>
+  <class>
+    <path>[external/jms.jar]</path>
+    <path>[external/jmxremote.jar]</path>
+    <path>[external/jmxremote_optional.jar]</path>
+    <path>[external/jmxri.jar]</path>
+    <path>[external/jmxtools.jar]</path>
+    <path>[external/junit.jar]</path>
+    <path>[external/mail.jar]</path>
+    <path>[external/resolver.jar]</path>
+    <path>[external/xercesImpl.jar]</path>
+    <path>[external/xercesSamples.jar]</path>
+    <path>[external/xml-apis.jar]</path>
+    <path>[external/xmlParserAPIs.jar]</path>
+    <path>[external/activation.jar]</path>
+  </class>
+  <lastmodsaved>1112984938556</lastmodsaved>
+</library>

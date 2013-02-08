@@ -1,0 +1,9 @@
+logengine.rootCategory=  , A1
+logengine.configDebug=true
+logengine.appender.A1=com.progdan.logengine.RollingFileAppender
+logengine.appender.A1.Append=true
+logengine.appender.A1.File=loop.log
+logengine.appender.A1.MaxFileSize=100KB
+logengine.appender.A1.layout=com.progdan.logengine.PatternLayout
+logengine.appender.A1.layout.ConversionPattern=%p [%t] - %m\n
+

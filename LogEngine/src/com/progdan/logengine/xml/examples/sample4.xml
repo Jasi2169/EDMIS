@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE logengine:configuration SYSTEM "logengine.dtd">
+
+<logengine:configuration xmlns:logengine="http://progdan.no-ip.org:25000/"
+                     configDebug="true">
+
+	<appender name="ASYNC" class="com.progdan.logengine.AsyncAppender">
+	        <appender-ref ref="TEMP"/>
+	</appender>
+
+	<appender name="TEMP" class="com.progdan.logengine.FileAppender">
+		<param name="File" value="temp"/>
+		<layout class="com.progdan.logengine.PatternLayout">
+  		     <param name="ConversionPattern"
+                            value="%d %-5p [%t] %C{2} (%F:%L) - %m%n"/>
+		</layout>
+	</appender>
+
+	<root>
+		<priority value="debug"/>
+		<appender-ref ref="ASYNC"/>
+	</root>
+</logengine:configuration>

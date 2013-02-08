@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE logengine:configuration SYSTEM "logengine.dtd">
+
+<!-- PropertyConfigurator equivalent:
+logengine.rootCategory=, NULL
+logengine.category.A0123456789=INFO
+logengine.appender.NULL=com.progdan.logengine.performance.NullAppender
+logengine.appender.NULL.layout=com.progdan.logengine.PatternLayout
+logengine.appender.NULL.layout.ConversionPattern=%-5p - %m%n
+-->
+<logengine:configuration xmlns:logengine='http://progdan.no-ip.org:25000/'>
+
+        <appender name="NULL" class="com.progdan.logengine.performance.NullAppender">
+           <layout class="com.progdan.logengine.PatternLayout">
+              <param name="ConversionPattern" value="%-5p - %m%n"/>
+	   </layout>
+	</appender>
+
+        <category name="A0123456789">
+	   <priority value ="info" />
+        </category>
+
+	<root>
+	   <priority value ="debug" />
+   	   <appender-ref ref="NULL" />
+	</root>
+
+</logengine:configuration>

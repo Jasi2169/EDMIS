@@ -1,0 +1,23 @@
+
+# ----------------------------------------------------------------------------
+# This config file is intended to be used by an intermediary SocketServer that
+# relays its log output to another SocketServer. This is used mostly to test
+# SocketServer cascading.
+# ----------------------------------------------------------------------------
+
+
+logengine.configDebug=true
+
+logengine.rootCategory=DEBUG, SOCKETSERV, CON
+
+logengine.category.com.progdan.logengine.net=DEBUG
+logengine.appender.SOCKETSERV=com.progdan.logengine.net.SocketAppender
+logengine.appender.SOCKETSERV.RemoteHost=localhost
+logengine.appender.SOCKETSERV.Port=15000
+logengine.appender.SOCKETSERV.layout=com.progdan.logengine.PatternLayout
+logengine.appender.SOCKETSERV.layout.ConversionPattern=%-5r %-5p [%t] %c{2} %x - %m%n
+
+
+logengine.appender.CON=com.progdan.logengine.ConsoleAppender
+logengine.appender.CON.layout=com.progdan.logengine.PatternLayout
+logengine.appender.CON.layout.ConversionPattern=%-5r %-5p [%t] %c{2} %x - %m%n

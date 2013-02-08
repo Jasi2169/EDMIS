@@ -1,0 +1,6 @@
+
+logengine.rootCategory=DEBUG, A1
+logengine.configDebug=true
+logengine.appender.A1=com.progdan.logengine.net.JMSAppender
+logengine.appender.A1.TopicBindingName=LOGBN
+logengine.appender.A1.TopicConnectionFactoryBindingName=TCFBN

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idixky0e290ybvke2911ct0.linkidasrcte290ybvke2911vth">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idixky0e290ybvke2911ct0.linkid4fy4te290ybvke2911vth">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idixky0e290ybvke2911ct0.linkida8cyhe290ybvke2911vth">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idixky0e290ybvke2911ct0.linkid86x9pe290ybvke2911vth">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idixky0e290ybvke2911ct0.linkid99gw9e290ybvke2911vtx">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idixky0e290ybvke2911ct0">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::iddlcqwe290ybvke2911ctg">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.performance.xml"/>
+        </reference>
+        <reference df-class-name="reference44" referencedUin="design:view:::id847te290ybvke2911ct0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.performance.history"/>
+        </reference>
+        <reference df-class-name="reference215" referencedUin="jdt:e_class:src:com.progdan.logengine.performance.NewVsSetLen">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference225" referencedUin="jdt:e_class:src:com.progdan.logengine.performance.SystemTime">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference245" referencedUin="jdt:e_class:src:com.progdan.logengine.performance.NullAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference263" referencedUin="jdt:e_class:src:com.progdan.logengine.performance.ListVsVector">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference282" referencedUin="jdt:e_class:src:com.progdan.logengine.performance.NOPWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

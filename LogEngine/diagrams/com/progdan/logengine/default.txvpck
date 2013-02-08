@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idbj1w9e290ybvke2911c7r.linkidi9zxpe290ybvke2911vcz">
+        <participant role="Supplier" referencedUin="design:view:::id9podje290ybvke2911c86"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid17dume290ybvke2911vcz">
+        <participant role="Supplier" referencedUin="design:view:::idi0bofe290ybvke2911cln"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidgmyige290ybvke2911vcz">
+        <participant role="Supplier" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidi5hgce290ybvke2911vcz">
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidj7tnge290ybvke2911vcz">
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidaje3te290ybvke2911vdf">
+        <participant role="Supplier" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid599xbe290ybvke2911vdf">
+        <participant role="Supplier" referencedUin="design:view:::idixky0e290ybvke2911ct0"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidiwk2le290ybvke2911vdu">
+        <participant role="Supplier" referencedUin="design:view:::idcm7nwe290ybvke2911cp4"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid3ex9be290ybvke2911vdu">
+        <participant role="Supplier" referencedUin="design:view:::id9t7npe290ybvke2911cnt"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidj8k8le290ybvke2911vdu">
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidi2431e290ybvke2911vdu">
+        <participant role="Supplier" referencedUin="design:view:::id8gjgve290ybvke2911cmi"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid552xoe290ybvke2911vea">
+        <participant role="Supplier" referencedUin="design:view:::idhoua1e290ybvke2911cqu"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid5rxg0e290ybvke2911vf5">
+        <participant role="Supplier" referencedUin="design:view:::id7ns8be290ybvke2911cg0"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid2bmhne290ybvke2911vf5">
+        <participant role="Supplier" referencedUin="design:view:::id18noje290ybvke2911cmy"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkid2vn4te290ybvke2911vf5">
+        <participant role="Supplier" referencedUin="design:view:::iddtmafe290ybvke2911ckc"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkidbu90xe290ybvke2911vfl">
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idbj1w9e290ybvke2911c7r.linkiddapcve290ybvke291biyg">
+        <participant role="Supplier" referencedUin="design:view:::id5zdt7e290ybvke2911co8"/>
+        <participant role="Client" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idbj1w9e290ybvke2911c7r">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idcwnwre290ybvke2911cjh">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.html"/>
+            <property name="bounds" value="2360,550,83,95"/>
+        </reference>
+        <reference df-class-name="reference1" referencedUin="design:view:::idcfmjde290ybvke2911cw2">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.selector"/>
+            <property name="bounds" value="2463,550,83,104"/>
+        </reference>
+        <reference df-class-name="reference4" referencedUin="design:view:::idhhngfe290ybvke2911cv6">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.rule"/>
+            <property name="bounds" value="2360,690,83,95"/>
+        </reference>
+        <reference df-class-name="reference6" referencedUin="design:view:::id7ns8be290ybvke2911cg0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.config"/>
+            <property name="bounds" value="1517,1096,151,152"/>
+        </reference>
+        <reference df-class-name="reference7" referencedUin="design:view:::id1bt6ze290ybvke2911cil">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.helpers"/>
+            <property name="bounds" value="1548,551,162,465"/>
+            <reference referencedUin="design:link:::id1bt6ze290ybvke2911cil.linkidexuqde290ybvke2911vhr">
+                <property name="sourceAnchor" value="1710,759"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1910,759"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference8" referencedUin="design:view:::idixky0e290ybvke2911ct0">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.performance"/>
+            <property name="bounds" value="1533,10,99,193"/>
+            <reference referencedUin="design:link:::idixky0e290ybvke2911ct0.linkid4fy4te290ybvke2911vth">
+                <property name="sourceAnchor" value="1582,203"/>
+                <property name="bendpoints" value="1582,242"/>
+                <property name="targetAnchor" value="1938,551"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference10" referencedUin="design:view:::id9ig1ie290ybvke2911cxs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.spi"/>
+            <property name="bounds" value="1910,551,164,417"/>
+            <reference referencedUin="design:link:::id9ig1ie290ybvke2911cxs.linkid3fa6xe290ybvke2911vus">
+                <property name="sourceAnchor" value="2074,669"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2194,669"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference12" referencedUin="design:view:::idfguz8e290ybvke2911coo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.multiplex"/>
+            <property name="bounds" value="2463,690,83,95"/>
+        </reference>
+        <reference df-class-name="reference14" referencedUin="design:view:::id7oenme290ybvke2911cub">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.rolling"/>
+            <property name="bounds" value="2144,830,83,104"/>
+        </reference>
+        <reference df-class-name="reference15" referencedUin="design:view:::id3uw64e290ybvke2911ckr">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.joran"/>
+            <property name="bounds" value="2247,830,83,104"/>
+        </reference>
+        <reference df-class-name="reference19" referencedUin="design:view:::id7ccdpe290ybvke2911ctw">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.plugins"/>
+            <property name="bounds" value="2350,830,83,95"/>
+        </reference>
+        <reference df-class-name="reference20" referencedUin="design:view:::id79mje290ybvke2911cgf">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.db"/>
+            <property name="bounds" value="2453,830,83,104"/>
+        </reference>
+        <reference df-class-name="reference21" referencedUin="design:view:::idbngqe290ybvke2911chq">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.gui"/>
+            <property name="bounds" value="2144,970,83,104"/>
+        </reference>
+        <reference df-class-name="reference22" referencedUin="design:view:::ideoob1e290ybvke2911cpz">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.nt"/>
+            <property name="bounds" value="2352,10,141,113"/>
+            <reference referencedUin="design:link:::ideoob1e290ybvke2911cpz.linkidgho8e290ybvke2911vqv">
+                <property name="sourceAnchor" value="2422,123"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2031,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference24" referencedUin="design:view:::iddtmafe290ybvke2911ckc">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.jmx"/>
+            <property name="bounds" value="2046,10,160,200"/>
+            <reference referencedUin="design:link:::iddtmafe290ybvke2911ckc.linkidacysae290ybvke2911vj2">
+                <property name="sourceAnchor" value="2126,210"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1989,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference25" referencedUin="design:view:::idcm7nwe290ybvke2911cp4">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.net"/>
+            <property name="bounds" value="1379,10,134,273"/>
+            <reference referencedUin="design:link:::idcm7nwe290ybvke2911cp4.linkid1cegpe290ybvke2911vq0">
+                <property name="sourceAnchor" value="1423,283"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1629,551"/>
+            </reference>
+            <reference referencedUin="design:link:::idcm7nwe290ybvke2911cp4.linkideo35ie290ybvke2911vq0">
+                <property name="sourceAnchor" value="1468,283"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1924,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference28" referencedUin="design:view:::ida8uzue290ybvke2911cxd">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.servlet"/>
+            <property name="bounds" value="2247,970,83,95"/>
+        </reference>
+        <reference df-class-name="reference30" referencedUin="design:view:::id66tlue290ybvke2911czj">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.xml"/>
+            <property name="bounds" value="1748,1096,159,193"/>
+            <reference referencedUin="design:link:::id66tlue290ybvke2911czj.linkid5ckgbe290ybvke2911vwy">
+                <property name="sourceAnchor" value="1791,1096"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1629,1016"/>
+            </reference>
+            <reference referencedUin="design:link:::id66tlue290ybvke2911czj.linkidgyqoke290ybvke2911vwi">
+                <property name="sourceAnchor" value="1834,1096"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1992,968"/>
+            </reference>
+            <reference referencedUin="design:link:::id66tlue290ybvke2911czj.linkid79lpoe290ybvke2911vwy">
+                <property name="sourceAnchor" value="1748,1172"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1668,1172"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference31" referencedUin="design:view:::id6fjbne290ybvke2911cwx">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.selectors"/>
+            <property name="bounds" value="2350,970,83,95"/>
+        </reference>
+        <reference df-class-name="reference34" referencedUin="design:view:::id890fye290ybvke2911cvm">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.scheduler"/>
+            <property name="bounds" value="2453,970,83,95"/>
+        </reference>
+        <reference df-class-name="reference35" referencedUin="design:view:::idgi7q8e290ybvke2911cy8">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.test"/>
+            <property name="bounds" value="1898,1110,83,95"/>
+        </reference>
+        <reference df-class-name="reference37" referencedUin="design:view:::idhoua1e290ybvke2911cqu">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.or"/>
+            <property name="bounds" value="2194,551,146,177"/>
+            <reference referencedUin="design:link:::idhoua1e290ybvke2911cqu.linkid6iprne290ybvke2911vrq">
+                <property name="sourceAnchor" value="2194,610"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2074,610"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference38" referencedUin="design:view:::id1ap03e290ybvke2911csl">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.pattern"/>
+            <property name="bounds" value="2001,1110,83,95"/>
+        </reference>
+        <reference df-class-name="reference41" referencedUin="design:view:::idgnjdge290ybvke2911cyn">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.varia"/>
+            <property name="bounds" value="1652,10,191,273"/>
+            <reference referencedUin="design:link:::idgnjdge290ybvke2911cyn.linkiddh568e290ybvke2911vv7">
+                <property name="sourceAnchor" value="1747,283"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1953,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference42" referencedUin="design:view:::idf6oh5e290ybvke2911cha">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.filters"/>
+            <property name="bounds" value="2104,1110,83,95"/>
+        </reference>
+        <reference df-class-name="reference45" referencedUin="design:view:::idi0bofe290ybvke2911cln">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.lf5"/>
+            <property name="bounds" value="1863,10,163,289"/>
+            <reference referencedUin="design:link:::idi0bofe290ybvke2911cln.linkidelh46e290ybvke2911vks">
+                <property name="sourceAnchor" value="1968,299"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1968,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference46" referencedUin="design:view:::id9podje290ybvke2911c86">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.chainsaw"/>
+            <property name="bounds" value="2513,10,110,481"/>
+            <reference referencedUin="design:link:::id9podje290ybvke2911c86.linkid2jkuge290ybvke2911vg1">
+                <property name="sourceAnchor" value="2568,491"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2052,551"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference48" referencedUin="design:view:::id4l1nxe290ybvke2911cjw">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.jdbc"/>
+            <property name="bounds" value="2226,10,106,104"/>
+            <reference referencedUin="design:link:::id4l1nxe290ybvke2911cjw.linkid1b8dne290ybvke2911vim">
+                <property name="sourceAnchor" value="2279,114"/>
+                <property name="bendpoints" value="2279,124"/>
+                <property name="targetAnchor" value="2010,551"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference188" referencedUin="jdt:e_class:src:com.progdan.logengine.HTMLLayout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1016,2665,200,318"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.HTMLLayout:com.progdan.logengine.Layout">
+                <property name="sourceAnchor" value="1116,2665"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="960,2173"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference189" referencedUin="jdt:e_class:src:com.progdan.logengine.Dispatcher">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="520,3533,168,190"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Dispatcher:container">
+                <property name="sourceAnchor" value="632,3533"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="632,3425"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference192" referencedUin="jdt:e_class:src:com.progdan.logengine.PropertyWatchdog">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2412,1110,120,117"/>
+        </reference>
+        <reference df-class-name="reference194" referencedUin="jdt:e_class:src:com.progdan.logengine.Hierarchy">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,1967,200,638"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Hierarchy:root">
+                <property name="sourceAnchor" value="210,2046"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="599,2046"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Hierarchy:threshold">
+                <property name="sourceAnchor" value="76,1967"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="76,1047"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference196" referencedUin="jdt:e_class:src:com.progdan.logengine.Logger">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="599,1967,145,158"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.Logger:com.progdan.logengine.Category">
+                <property name="sourceAnchor" value="667,1967"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="667,1847"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference201" referencedUin="jdt:e_class:src:com.progdan.logengine.Layout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="824,1967,185,206"/>
+        </reference>
+        <reference df-class-name="reference202" referencedUin="jdt:e_class:src:com.progdan.logengine.RollingFileAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1023,3043,158,254"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.RollingFileAppender:com.progdan.logengine.FileAppender">
+                <property name="sourceAnchor" value="1102,3043"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1284,2983"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference203" referencedUin="jdt:e_class:src:com.progdan.logengine.RollingCalendar">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1201,3043,152,174"/>
+        </reference>
+        <reference df-class-name="reference206" referencedUin="jdt:e_class:src:com.progdan.logengine.SimpleLayout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="607,2665,169,142"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.SimpleLayout:com.progdan.logengine.Layout">
+                <property name="sourceAnchor" value="691,2665"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="868,2173"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference208" referencedUin="jdt:e_class:src:com.progdan.logengine.CategoryKey">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2412,1270,107,142"/>
+        </reference>
+        <reference df-class-name="reference211" referencedUin="jdt:e_class:src:com.progdan.logengine.Priority">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="401,10,195,478"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Priority:INFO">
+                <property name="sourceAnchor" value="518,488"/>
+                <property name="bendpoints" value="518,576,684,576,684,410"/>
+                <property name="targetAnchor" value="596,410"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Priority:WARN">
+                <property name="sourceAnchor" value="479,488"/>
+                <property name="bendpoints" value="479,615,723,615,723,371"/>
+                <property name="targetAnchor" value="596,371"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Priority:ERROR">
+                <property name="sourceAnchor" value="441,488"/>
+                <property name="bendpoints" value="441,654,761,654,761,332"/>
+                <property name="targetAnchor" value="596,332"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Priority:FATAL">
+                <property name="sourceAnchor" value="431,488"/>
+                <property name="bendpoints" value="431,693,771,693,771,293"/>
+                <property name="targetAnchor" value="596,293"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Priority:DEBUG">
+                <property name="sourceAnchor" value="557,488"/>
+                <property name="bendpoints" value="557,537,645,537,645,449"/>
+                <property name="targetAnchor" value="596,449"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference213" referencedUin="jdt:e_class:src:com.progdan.logengine.Appender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="961,10,177,245"/>
+        </reference>
+        <reference df-class-name="reference218" referencedUin="jdt:e_class:src:com.progdan.logengine.ProvisionNode">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1603,1450,95,101"/>
+        </reference>
+        <reference df-class-name="reference235" referencedUin="jdt:e_class:src:com.progdan.logengine.WriterAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1150,1967,200,382"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.WriterAppender:com.progdan.logengine.AppenderSkeleton">
+                <property name="sourceAnchor" value="1250,1967"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1001,1143"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference244" referencedUin="jdt:e_class:src:com.progdan.logengine.FileAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1236,2665,146,318"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.FileAppender:com.progdan.logengine.WriterAppender">
+                <property name="sourceAnchor" value="1274,2665"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1274,2349"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference259" referencedUin="jdt:e_class:src:com.progdan.logengine.MDC">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1158,10,143,270"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.MDC:mdc">
+                <property name="sourceAnchor" value="1273,280"/>
+                <property name="bendpoints" value="1273,318,1339,318,1339,252"/>
+                <property name="targetAnchor" value="1301,252"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference273" referencedUin="jdt:e_class:src:com.progdan.logengine.PatternLayout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="796,2665,200,318"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.PatternLayout:com.progdan.logengine.Layout">
+                <property name="sourceAnchor" value="912,2665"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="912,2173"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference274" referencedUin="jdt:e_class:src:com.progdan.logengine.LogManager">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1383,1450,200,350"/>
+        </reference>
+        <reference df-class-name="reference284" referencedUin="jdt:e_class:src:com.progdan.logengine.AsyncAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="500,3043,200,382"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.AsyncAppender:dispatcher">
+                <property name="sourceAnchor" value="576,3425"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="576,3533"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.AsyncAppender:com.progdan.logengine.AppenderSkeleton">
+                <property name="sourceAnchor" value="587,3043"/>
+                <property name="bendpoints" value="587,2674,775,2286,775,2053,901,1739"/>
+                <property name="targetAnchor" value="901,1143"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference302" referencedUin="jdt:e_class:src:com.progdan.logengine.NDC">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1219,1450,144,334"/>
+        </reference>
+        <reference df-class-name="reference310" referencedUin="jdt:e_class:src:com.progdan.logengine.BasicConfigurator">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1718,1450,148,133"/>
+        </reference>
+        <reference df-class-name="reference314" referencedUin="jdt:e_class:src:com.progdan.logengine.DailyRollingFileAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1433,3043,179,430"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.DailyRollingFileAppender:rc">
+                <property name="sourceAnchor" value="1433,3130"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1353,3130"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.DailyRollingFileAppender:com.progdan.logengine.FileAppender">
+                <property name="sourceAnchor" value="1522,3043"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1333,2983"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference321" referencedUin="jdt:e_class:src:com.progdan.logengine.Category">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="576,793,200,1054"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Category:level">
+                <property name="sourceAnchor" value="576,920"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="163,920"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Category:parent">
+                <property name="sourceAnchor" value="736,1847"/>
+                <property name="bendpoints" value="736,1897,826,1897,826,1807"/>
+                <property name="targetAnchor" value="776,1807"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference327" referencedUin="jdt:e_class:src:com.progdan.logengine.DefaultCategoryFactory">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1886,1450,200,117"/>
+        </reference>
+        <reference df-class-name="reference332" referencedUin="jdt:e_class:src:com.progdan.logengine.ConsoleAppender">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1402,2665,152,222"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.ConsoleAppender:com.progdan.logengine.WriterAppender">
+                <property name="sourceAnchor" value="1478,2665"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1312,2349"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference339" referencedUin="jdt:e_class:src:com.progdan.logengine.Level">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="66,793,97,254"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:ALL">
+                <property name="sourceAnchor" value="146,1047"/>
+                <property name="bendpoints" value="146,1076,190,1076,190,1028"/>
+                <property name="targetAnchor" value="163,1028"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:OFF">
+                <property name="sourceAnchor" value="86,1047"/>
+                <property name="bendpoints" value="86,1174,250,1174,250,930"/>
+                <property name="targetAnchor" value="163,930"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:WARN">
+                <property name="sourceAnchor" value="116,1047"/>
+                <property name="bendpoints" value="116,1133,220,1133,220,971"/>
+                <property name="targetAnchor" value="163,971"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:INFO">
+                <property name="sourceAnchor" value="126,1047"/>
+                <property name="bendpoints" value="126,1114,210,1114,210,990"/>
+                <property name="targetAnchor" value="163,990"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:FATAL">
+                <property name="sourceAnchor" value="96,1047"/>
+                <property name="bendpoints" value="96,1164,240,1164,240,940"/>
+                <property name="targetAnchor" value="163,940"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:DEBUG">
+                <property name="sourceAnchor" value="136,1047"/>
+                <property name="bendpoints" value="136,1095,200,1095,200,1009"/>
+                <property name="targetAnchor" value="163,1009"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.Level:ERROR">
+                <property name="sourceAnchor" value="106,1047"/>
+                <property name="bendpoints" value="106,1152,230,1152,230,952"/>
+                <property name="targetAnchor" value="163,952"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.logengine.Level:com.progdan.logengine.Priority">
+                <property name="sourceAnchor" value="114,793"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="411,488"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference348" referencedUin="jdt:e_class:src:com.progdan.logengine.AppenderSkeleton">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="866,793,200,350"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.AppenderSkeleton:layout">
+                <property name="sourceAnchor" value="937,1143"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="937,1967"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.logengine.AppenderSkeleton:threshold">
+                <property name="sourceAnchor" value="939,793"/>
+                <property name="bendpoints" value="421,704"/>
+                <property name="targetAnchor" value="421,488"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.logengine.AppenderSkeleton:com.progdan.logengine.Appender">
+                <property name="sourceAnchor" value="1013,793"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1013,255"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference349" referencedUin="jdt:e_class:src:com.progdan.logengine.TTCCLayout">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2207,1110,185,222"/>
+        </reference>
+        <reference df-class-name="reference361" referencedUin="jdt:e_class:src:com.progdan.logengine.PropertyConfigurator">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2106,1450,200,542"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

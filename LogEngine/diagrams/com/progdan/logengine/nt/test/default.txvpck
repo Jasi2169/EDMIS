@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id7hnvme290ybvke2911cqf.linkidh8gw8e290ybvke2911vrb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id7hnvme290ybvke2911cqf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7hnvme290ybvke2911cqf.linkidexz6be290ybvke2911vrb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id7hnvme290ybvke2911cqf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7hnvme290ybvke2911cqf.linkid3taa1e290ybvke2911vrb">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id7hnvme290ybvke2911cqf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id7hnvme290ybvke2911cqf.linkid48ctue290ybvke2911vrq">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id7hnvme290ybvke2911cqf"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id7hnvme290ybvke2911cqf">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.logengine.nt.test.NTMin">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

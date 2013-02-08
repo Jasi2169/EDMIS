@@ -1,0 +1,12 @@
+
+# -------------------------------------------------------------------
+# This config file is intended to be used by a SocketServer that logs
+# events received from various clients on the console.
+# -------------------------------------------------------------------
+
+logengine.rootCategory=DEBUG, A1
+logengine.category.com.progdan.logengine.net=DEBUG
+logengine.appender.A1=com.progdan.logengine.ConsoleAppender
+logengine.appender.A1.layout=com.progdan.logengine.PatternLayout
+logengine.appender.A1.layout.ConversionPattern=%-5r %-5p [%t] %c{2} %x - %m%n
+

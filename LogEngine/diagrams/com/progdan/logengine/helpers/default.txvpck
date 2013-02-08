@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id1bt6ze290ybvke2911cil.linkid7rsxie290ybvke2911vhr">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1bt6ze290ybvke2911cil.linkidexuqde290ybvke2911vhr">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1bt6ze290ybvke2911cil.linkid8vikne290ybvke2911vi7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1bt6ze290ybvke2911cil.linkidjpe95e290ybvke2911vi7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1bt6ze290ybvke2911cil.linkid4ld5le290ybvke2911vi7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::id1bt6ze290ybvke2911cil"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id1bt6ze290ybvke2911cil">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id9wz0we290ybvke2911cj1">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.helpers.mcompose"/>
+        </reference>
+        <reference df-class-name="reference191" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.SyslogQuietWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference193" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.OptionConverter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference195" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.SyslogWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference230" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.FormattingInfo">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference233" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.AppenderAttachableImpl">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference241" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.AbsoluteTimeDateFormat">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference253" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.Transform">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference261" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.QuietWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference264" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.LogLog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference265" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.DateLayout">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference269" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.Loader">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference275" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.DateTimeDateFormat">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference288" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.BoundedFIFO">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference295" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.ISO8601DateFormat">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference296" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.NullEnumeration">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference297" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.FileWatchdog">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference308" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.CountingQuietWriter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference311" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.RelativeTimeDateFormat">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference316" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.PatternParser">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference317" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.PatternConverter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference346" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.CyclicBuffer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference351" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.OnlyOnceErrorHandler">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference358" referencedUin="jdt:e_class:src:com.progdan.logengine.helpers.ThreadLocalMap">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

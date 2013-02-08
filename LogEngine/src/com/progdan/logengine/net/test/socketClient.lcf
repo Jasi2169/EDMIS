@@ -1,0 +1,20 @@
+# -------------------------------------------------------------------------
+# This config file is intended to be used by a client wishing to log using
+# a SocketAppender to a SyslogServer or equivalent.
+# -------------------------------------------------------------------------
+
+logengine.configDebug=true
+
+logengine.rootCategory=DEBUG, A1, CON
+
+logengine.category.com.progdan.logengine.net=DEBUG
+logengine.appender.A1=com.progdan.logengine.net.SocketAppender
+logengine.appender.A1.RemoteHost=localhost
+logengine.appender.A1.Port=15000
+logengine.appender.A1.layout=com.progdan.logengine.PatternLayout
+logengine.appender.A1.layout.ConversionPattern=%-5r %-5p [%t] %c{2} %x - %m%n
+
+
+logengine.appender.CON=com.progdan.logengine.ConsoleAppender
+logengine.appender.CON.layout=com.progdan.logengine.PatternLayout
+logengine.appender.CON.layout.ConversionPattern=%-5r %-5p [%t] %c{2} %x - %m%n

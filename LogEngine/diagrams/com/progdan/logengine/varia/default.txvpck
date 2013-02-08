@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idgnjdge290ybvke2911cyn.linkidb3eo9e290ybvke2911vv7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbjyo0e290ybvke2911anr"/>
+        <participant role="Client" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgnjdge290ybvke2911cyn.linkiddh568e290ybvke2911vv7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id9ig1ie290ybvke2911cxs"/>
+        <participant role="Client" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgnjdge290ybvke2911cyn.linkid68g72e290ybvke2911vv7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idbj1w9e290ybvke2911c7r"/>
+        <participant role="Client" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgnjdge290ybvke2911cyn.linkidjz5gie290ybvke2911vvn">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idewsase290ybvke2911c7b"/>
+        <participant role="Client" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idgnjdge290ybvke2911cyn.linkidgkkf1e290ybvke2911vvn">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idgqleje290ybvke2911c6g"/>
+        <participant role="Client" referencedUin="design:view:::idgnjdge290ybvke2911cyn"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idgnjdge290ybvke2911cyn">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idg17p2e290ybvke2911cz3">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:LogEngine:src:com.progdan.logengine.varia.test"/>
+        </reference>
+        <reference df-class-name="reference199" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.Roller">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference238" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.HUPNode">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference248" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.FallbackErrorHandler">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference249" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.NullAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference266" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.ReloadingPropertyConfigurator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference267" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.HUP">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference272" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.LevelRangeFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference278" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.LevelMatchFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference289" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.DenyAllFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference312" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.StringMatchFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference318" referencedUin="jdt:e_class:src:com.progdan.logengine.varia.ExternallyRolledFileAppender">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>
