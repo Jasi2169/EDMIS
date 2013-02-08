@@ -1,0 +1,48 @@
+[Project]
+Language=java
+Root.0=$PROJECT_DIR$/src
+Root.0.access=writable
+Root.0.file_types=java_source;java_class
+Root.0.package_prefix=
+Root.1=$PROJECT_DIR$/diagrams
+Root.1.access=writable
+Root.1.file_types=diagram
+Root.1.package_prefix=
+Root.2=$TGH$/lib/javax.jar
+Root.2.access=import
+Version=3.0
+projectfile.encoding=Cp1252
+Project.JDK=C:\\Borland\\TogetherArchitect\\jdk
+Root.3=$TGH$/jdk/jre/lib/rt.jar
+Root.3.access=import
+Root.3.non_removable=
+debugger.SkipClass.0=,com.sun.*,1
+debugger.SkipClass.1=,java.*,1
+debugger.SkipClass.2=,javax.*,1
+debugger.SkipClass.3=,org.omg.*,1
+debugger.SkipClass.4=,sun.*,1
+debugger.SmartStep=true
+[builder]
+userCompilingTool_enabled=false
+[parser]
+java.java14syntax=true
+[editor]
+recent.file.0=C:\\Documents and Settings\\ProgDan\\My Documents\\EDMIS\\Source\\DOC2TXT\\src\\com\\progdan\\doc2txt\\extraction\\Test.java
+recent.file.1=C:\\Documents and Settings\\ProgDan\\My Documents\\EDMIS\\Source\\DOC2TXT\\src\\com\\progdan\\doc2txt\\WordExtractor.java
+recent.file.2=C:\\Documents and Settings\\ProgDan\\My Documents\\EDMIS\\Source\\DOC2TXT\\src\\com\\progdan\\doc2txt\\extraction\\WordExtractor.java
+recent.file.3=C:\\Documents and Settings\\ProgDan\\My Documents\\EDMIS\\Source\\DOC2TXT\\src\\com\\progdan\\Class1.java
+[workspace]
+Developer.CodingWorkspace={{0,2,-1,0,0,0,0,0,0,1,0,50,75,25,-1,-1,-1,-1}${0,1,-1,0,0,0,0,1,0,1,0,50,75,25,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,66,50,25,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,66,50,25,-1,-1,-1,-1}${0,-1,-1,0,0,0,0,0,0,1,0,5,5,5,-1,-1,-1,-1}${0,5,-1,0,0,0,0,0,0,1,0,50,50,25,-1,-1,-1,-1}${0,4,-1,0,0,0,0,1,0,1,1,66,50,25,-1,-1,-1,-1}${0,7,-1,0,0,0,0,0,0,1,0,50,50,75,-1,-1,-1,-1}}
+Developer.DOC2TXT={{0,2,-1,0,0,0,0,1,0,1,1,50,75,21,-1,-1,-1,-1}${0,1,-1,0,0,0,0,0,0,1,0,50,75,21,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,50,50,21,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,50,50,21,-1,-1,-1,-1}${0,-1,-1,0,0,0,0,0,0,1,0,5,5,5,-1,-1,-1,-1}${0,4,-1,0,0,0,0,0,0,1,0,50,50,21,-1,-1,-1,-1}${0,0,-1,0,0,0,0,0,0,1,0,75,5,5,-1,-1,-1,-1}${0,7,-1,0,0,0,0,0,0,1,0,50,50,75,-1,-1,-1,-1}}
+Developer.DebugWorkspace={{0,2,-1,0,0,0,0,0,0,1,0,50,75,25,-1,-1,-1,-1}${0,1,-1,0,0,0,0,1,0,1,1,50,75,25,-1,-1,-1,-1}${0,3,-1,0,0,0,0,0,0,1,0,50,50,25,-1,-1,-1,-1}${0,3,-1,0,0,0,0,0,0,1,0,50,50,25,-1,-1,-1,-1}${0,-1,-1,0,0,0,0,0,0,1,0,5,5,5,-1,-1,-1,-1}${0,4,-1,0,0,0,0,0,0,1,0,50,50,25,-1,-1,-1,-1}${0,0,-1,0,0,0,0,1,0,1,0,75,5,5,-1,-1,-1,-1}${0,7,-1,0,0,0,0,0,0,1,0,50,50,75,-1,-1,-1,-1}}
+Developer.DesignWorkspace={{0,2,-1,0,0,0,0,1,0,1,0,50,75,22,-1,-1,-1,-1}${0,1,-1,0,0,0,0,0,0,1,0,50,75,22,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,50,50,22,-1,-1,-1,-1}${0,3,-1,0,0,0,0,1,0,1,0,50,50,22,-1,-1,-1,-1}${0,-1,-1,0,0,0,0,0,0,1,0,5,5,5,-1,-1,-1,-1}${0,4,-1,0,0,0,0,1,0,1,1,50,50,22,-1,-1,-1,-1}${0,0,-1,0,0,0,0,0,0,1,0,75,5,5,-1,-1,-1,-1}${0,7,-1,0,0,0,0,0,0,1,0,50,50,75,-1,-1,-1,-1}}
+names.Developer={DOC2TXT,DesignWorkspace,CodingWorkspace,DebugWorkspace}
+[compiler]
+cross-bootclasspath=C:/Borland/TogetherArchitect/jdk/jre/lib/rt.jar
+cross-compilation_enabled=false
+[jdkit]
+homedir=C:\\Borland\\TogetherArchitect\\jdk
+[lastOpenProjectName]
+Developer=DOC2TXT
+[vcs]
+provider.class=CVS LAN

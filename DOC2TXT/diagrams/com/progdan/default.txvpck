@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="id1r5o6e4dj4p4be4dj7tnj.linkidjo9e2e4dj4p4be4djam5l">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id99dtee4dj4p4be4dj94i5"/>
+        <participant role="Client" referencedUin="design:view:::id1r5o6e4dj4p4be4dj7tnj"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1r5o6e4dj4p4be4dj7tnj.linkiddhzfae4dj4p4be4djam5l">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idqq7he4dj4p4be4dj77xu"/>
+        <participant role="Client" referencedUin="design:view:::id1r5o6e4dj4p4be4dj7tnj"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1r5o6e4dj4p4be4dj7tnj.linkid890fye4dj4p4be4djam60">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::ida9tise4dj4p4be4dj5f2c"/>
+        <participant role="Client" referencedUin="design:view:::id1r5o6e4dj4p4be4dj7tnj"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="id1r5o6e4dj4p4be4dj7tnj.linkideltihe4dj4p4be4djam6g">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idejl8je4dj4p4be4dj5j15"/>
+        <participant role="Client" referencedUin="design:view:::id1r5o6e4dj4p4be4dj7tnj"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="id1r5o6e4dj4p4be4dj7tnj">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference5" referencedUin="design:view:::id99dtee4dj4p4be4dj94i5">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:DOC2TXT:src:com.progdan.doc2txt"/>
+            <property name="bounds" value="10,10,83,104"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>
