@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="idjh70re29806tre2981yg4.linkid9btwre29806tre2982hvr">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idb0j8ee29806tre2981xso"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjh70re29806tre2981yg4.linkidgjr8be29806tre2982hvr">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id37rgqe29806tre2981yfo"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjh70re29806tre2981yg4.linkid2hq79e29806tre2982hw7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id4yvawe29806tre2981yhu"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjh70re29806tre2981yg4.linkid26yt6e29806tre2982hw7">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjh70re29806tre2981yg4.linkid8sizwe29806tre2982hwm">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddgjlwe29806tre2981yed"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="idjh70re29806tre2981yg4.linkiddkqcse29806tre2982hwm">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjjvlae29806tre2981yet"/>
+        <participant role="Client" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="idjh70re29806tre2981yg4">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::id4yvawe29806tre2981yhu">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:SearchEngine:src:com.progdan.searchengine.analysis.standard"/>
+        </reference>
+        <reference df-class-name="reference5" referencedUin="design:view:::idge83be29806tre2981ygj">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:SearchEngine:src:com.progdan.searchengine.analysis.de"/>
+        </reference>
+        <reference df-class-name="reference8" referencedUin="design:view:::id8clpfe29806tre2981ygz">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:SearchEngine:src:com.progdan.searchengine.analysis.ru"/>
+        </reference>
+        <reference df-class-name="reference55" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.Tokenizer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference56" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.LetterTokenizer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference57" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.CharTokenizer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference58" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.TokenFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference59" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.StopFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference60" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.PerFieldAnalyzerWrapper">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference61" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.Analyzer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference62" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.TokenStream">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference63" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.LowerCaseFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference64" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.WhitespaceAnalyzer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference65" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.PorterStemFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference66" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.LowerCaseTokenizer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference67" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.SimpleAnalyzer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference68" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.StopAnalyzer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference69" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.Token">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference70" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.WhitespaceTokenizer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference71" referencedUin="jdt:e_class:src:com.progdan.searchengine.analysis.PorterStemmer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

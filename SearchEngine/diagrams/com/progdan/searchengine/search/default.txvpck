@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="ide77qee29806tre2981yk0.linkidgx90oe29806tre2982i0z">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid3mbole29806tre2982i0z">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id1lpzxe29806tre2981yip"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid47m1fe29806tre2982i1e">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid50v4se29806tre2982i1e">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id37rgqe29806tre2981yfo"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid6dzzbe29806tre2982i1e">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddgjlwe29806tre2981yed"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid3pby6e29806tre2982i1e">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id3rj68e29806tre2981ylr"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid1aipse29806tre2982i1u">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjjvlae29806tre2981yet"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkidgs14we29806tre2982i1u">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idj3vr2e29806tre2981ykw"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid9wxqde29806tre2982i1u">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idb0j8ee29806tre2981xso"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="ide77qee29806tre2981yk0.linkid36gcme29806tre2982i2a">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id3iedpe29806tre2981ylb"/>
+        <participant role="Client" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="ide77qee29806tre2981yk0">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="design:view:::idj3vr2e29806tre2981ykw">
+            <property name="$shortcutReference" value="true"/>
+            <property name="@__fqn" value="uml:package:SearchEngine:src:com.progdan.searchengine.search.spans"/>
+        </reference>
+        <reference df-class-name="reference80" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FilteredTermEnum">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference81" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.DateFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference82" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PhraseQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference83" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.MultiTermQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference84" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.SortField">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference85" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FuzzyTermEnum">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference86" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Query">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference87" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FieldDoc">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference88" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.SortComparator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference89" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.HitCollector">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference90" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PhrasePrefixQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference91" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.DefaultSimilarity">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference92" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.ExactPhraseScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference93" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.BooleanScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference94" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Sort">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference95" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Weight">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference96" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.IndexSearcher">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference97" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.SortComparatorSource">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference98" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.TermQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference99" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.MultiSearcherThread">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference100" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Searcher">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference101" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.WildcardQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference102" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Searchable">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference103" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Similarity">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference104" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FilteredQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference105" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.SloppyPhraseScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference106" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FieldCache">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference107" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.TopFieldDocs">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference108" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PhrasePositions">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference109" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Hits">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference110" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PhraseScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference111" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.RemoteSearchable">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference112" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FuzzyQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference113" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.WildcardTermEnum">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference114" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FieldSortedHitQueue">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference115" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.ParallelMultiSearcher">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference116" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.ScoreDoc">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference117" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Filter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference118" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FieldDocSortedHitQueue">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference119" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.MultiSearcher">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference120" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.HitQueue">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference121" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PrefixQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference122" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.HitDoc">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference123" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.TermScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference124" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.CachingWrapperFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference125" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.QueryTermVector">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference126" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Explanation">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference127" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.RangeQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference128" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.PhraseQueue">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference129" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.BooleanClause">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference130" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.Scorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference131" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.ScoreDocComparator">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference132" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.BooleanQuery">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference133" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.QueryFilter">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference134" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.FieldCacheImpl">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference135" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.ConjunctionScorer">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference136" referencedUin="jdt:e_class:src:com.progdan.searchengine.search.TopDocs">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="iddzy5se29806tre2981yjl.linkidbacr7e29806tre2982i03">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddzy5se29806tre2981yjl.linkidj29pwe29806tre2982i03">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddzy5se29806tre2981yjl.linkidcqgo3e29806tre2982i0j">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idb0j8ee29806tre2981xso"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddzy5se29806tre2981yjl.linkid60l6he29806tre2982i0j">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::id37rgqe29806tre2981yfo"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddzy5se29806tre2981yjl.linkidzj74e29806tre2982i0j">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::iddgjlwe29806tre2981yed"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddzy5se29806tre2981yjl.linkid4q3lce29806tre2982i0j">
+        <property name="$metaclass" value="Dependency Link"/>
+        <participant role="Supplier" referencedUin="design:view:::idjjvlae29806tre2981yet"/>
+        <participant role="Client" referencedUin="design:view:::iddzy5se29806tre2981yjl"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="iddzy5se29806tre2981yjl">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.QueryParser">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference72" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.ParseException">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference73" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.CharStream">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference74" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.QueryParserTokenManager">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference75" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.TokenMgrError">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference76" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.QueryParserConstants">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference77" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.FastCharStream">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference78" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.Token">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <reference df-class-name="reference79" referencedUin="jdt:e_class:src:com.progdan.searchengine.queryParser.MultiFieldQueryParser">
+            <property name="$shortcutReference" value="true"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

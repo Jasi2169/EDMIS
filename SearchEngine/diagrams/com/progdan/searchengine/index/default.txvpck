@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodeSet version="1.0">
+    <link uin="iddg8jge29806tre2981yj5.linkidhvqkae29806tre2982hz8">
+        <participant role="Supplier" referencedUin="design:view:::id1lpzxe29806tre2981yip"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkid3ymnte29806tre2982hz8">
+        <participant role="Supplier" referencedUin="design:view:::ide77qee29806tre2981yk0"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkidj1pioe29806tre2982hz8">
+        <participant role="Supplier" referencedUin="design:view:::idjh70re29806tre2981yg4"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkidciznoe29806tre2982hzo">
+        <participant role="Supplier" referencedUin="design:view:::id3iedpe29806tre2981ylb"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkidbdnr0e29806tre2982hzo">
+        <participant role="Supplier" referencedUin="design:view:::idb0j8ee29806tre2981xso"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkidzb5be29806tre2982hzo">
+        <participant role="Supplier" referencedUin="design:view:::id37rgqe29806tre2981yfo"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkid9ycude29806tre2982hzo">
+        <participant role="Supplier" referencedUin="design:view:::iddgjlwe29806tre2981yed"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkid85jvre29806tre2982hzo">
+        <participant role="Supplier" referencedUin="design:view:::id3rj68e29806tre2981ylr"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <link uin="iddg8jge29806tre2981yj5.linkid346zae29806tre2982i03">
+        <participant role="Supplier" referencedUin="design:view:::idjjvlae29806tre2981yet"/>
+        <participant role="Client" referencedUin="design:view:::iddg8jge29806tre2981yj5"/>
+        <property name="$metaclass" value="Dependency Link"/>
+        <property name="@automatic" value=""/>
+    </link>
+    <view uin="iddg8jge29806tre2981yj5">
+        <property name="$metaclass" value="Package Diagram"/>
+        <property name="@__options" value=""/>
+        <reference df-class-name="reference" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.FieldsWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="230,2810,167,158"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.FieldsWriter:fieldInfos">
+                <property name="sourceAnchor" value="313,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="958,2308"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference9" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentTermVector">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2778,267,158,238"/>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.SegmentTermVector:com.progdan.searchengine.index.TermFreqVector">
+                <property name="sourceAnchor" value="2902,267"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2902,207"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference10" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentMergeInfo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1795,1942,146,206"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMergeInfo:term">
+                <property name="sourceAnchor" value="1795,2059"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1385,2059"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMergeInfo:reader">
+                <property name="sourceAnchor" value="1868,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2318,1842"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMergeInfo:postings">
+                <property name="sourceAnchor" value="1868,2148"/>
+                <property name="bendpoints" value="1868,2684"/>
+                <property name="targetAnchor" value="2082,2810"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMergeInfo:termEnum">
+                <property name="sourceAnchor" value="1795,1971"/>
+                <property name="bendpoints" value="1334,1922,1268,1922"/>
+                <property name="targetAnchor" value="1217,1963"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference11" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.MultiTermPositions">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2106,3480,136,117"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.MultiTermPositions:com.progdan.searchengine.index.MultiTermDocs">
+                <property name="sourceAnchor" value="2207,3480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2207,3160"/>
+            </reference>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.MultiTermPositions:com.progdan.searchengine.index.TermPositions">
+                <property name="sourceAnchor" value="2121,3480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2121,2911"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference12" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentTermPositions">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2262,3480,151,238"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.SegmentTermPositions:com.progdan.searchengine.index.SegmentTermDocs">
+                <property name="sourceAnchor" value="2392,3480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2392,3320"/>
+            </reference>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.SegmentTermPositions:com.progdan.searchengine.index.TermPositions">
+                <property name="sourceAnchor" value="2327,3480"/>
+                <property name="bendpoints" value="2136,3123"/>
+                <property name="targetAnchor" value="2136,2911"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference13" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.MultipleTermPositions">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1886,3480,200,334"/>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.MultipleTermPositions:com.progdan.searchengine.index.TermPositions">
+                <property name="sourceAnchor" value="2067,3480"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2067,2911"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference14" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.Posting">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1306,2810,87,126"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.Posting:term">
+                <property name="sourceAnchor" value="1329,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1329,2244"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference15" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.MultiReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2392,1942,200,590"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiReader:subReaders">
+                <property name="sourceAnchor" value="2455,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2455,1842"/>
+                <reference referencedUin="linklabel:supplierCardinality:jdt:l_ast:src:com.progdan.searchengine.index.MultiReader:subReaders">
+                    <property name="bounds" value="2425,1842,26,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.MultiReader:com.progdan.searchengine.index.IndexReader">
+                <property name="sourceAnchor" value="2419,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2419,1842"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference16" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermEnum">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1111,1942,106,149"/>
+        </reference>
+        <reference df-class-name="reference17" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.CompoundFileReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2542,2810,170,430"/>
+        </reference>
+        <reference df-class-name="reference18" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.CompoundFileWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2778,550,151,270"/>
+        </reference>
+        <reference df-class-name="reference19" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.DocumentWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1079,836,163,350"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.DocumentWriter:fieldInfos">
+                <property name="sourceAnchor" value="1133,1186"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="995,1942"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.DocumentWriter:termBuffer">
+                <property name="sourceAnchor" value="1187,1186"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1326,1942"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference20" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermVectorsWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="10,2810,200,574"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermVectorsWriter:fieldInfos">
+                <property name="sourceAnchor" value="110,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="944,2308"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference21" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentMerger">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="417,2810,200,590"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMerger:queue">
+                <property name="sourceAnchor" value="483,3400"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="735,3480"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMerger:termInfo">
+                <property name="sourceAnchor" value="550,3400"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="968,3480"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMerger:fieldInfos">
+                <property name="sourceAnchor" value="517,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="972,2308"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentMerger:termInfosWriter">
+                <property name="sourceAnchor" value="617,2977"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="697,2977"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference22" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1991,1942,200,798"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentReader:tis">
+                <property name="sourceAnchor" value="2024,2740"/>
+                <property name="bendpoints" value="1583,2800"/>
+                <property name="targetAnchor" value="1583,2810"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentReader:cfsReader">
+                <property name="sourceAnchor" value="2157,2740"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2627,2810"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentReader:fieldInfos">
+                <property name="sourceAnchor" value="1991,1982"/>
+                <property name="bendpoints" value="1936,1912,1122,1912"/>
+                <property name="targetAnchor" value="1061,1968"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentReader:fieldsReader">
+                <property name="sourceAnchor" value="2090,2740"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1975,2810"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentReader:termVectorsReader">
+                <property name="sourceAnchor" value="2057,2740"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1783,2810"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.SegmentReader:com.progdan.searchengine.index.IndexReader">
+                <property name="sourceAnchor" value="2091,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2336,1842"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference23" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.FieldsReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1870,2810,158,190"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.FieldsReader:fieldInfos">
+                <property name="sourceAnchor" value="1922,2810"/>
+                <property name="bendpoints" value="1046,2546"/>
+                <property name="targetAnchor" value="1046,2308"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference24" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.FieldInfo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2764,870,153,142"/>
+        </reference>
+        <reference df-class-name="reference25" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentTermDocs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2371,2810,151,510"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentTermDocs:parent">
+                <property name="sourceAnchor" value="2421,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2123,2740"/>
+            </reference>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.SegmentTermDocs:com.progdan.searchengine.index.TermDocs">
+                <property name="sourceAnchor" value="2471,2810"/>
+                <property name="bendpoints" value="2301,2300"/>
+                <property name="targetAnchor" value="2301,2155"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference26" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.IndexWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2558,10,200,766"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.IndexWriter:segmentInfos">
+                <property name="sourceAnchor" value="2658,776"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2658,836"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference27" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermVectorsReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1650,2810,200,270"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermVectorsReader:fieldInfos">
+                <property name="sourceAnchor" value="1716,2810"/>
+                <property name="bendpoints" value="1031,2607"/>
+                <property name="targetAnchor" value="1031,2308"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference28" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentMergeQueue">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="690,3480,136,133"/>
+        </reference>
+        <reference df-class-name="reference29" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentInfo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2956,430,91,126"/>
+        </reference>
+        <reference df-class-name="reference30" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermPositionVector">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2956,267,143,130"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.TermPositionVector:com.progdan.searchengine.index.TermFreqVector">
+                <property name="sourceAnchor" value="2986,267"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2986,207"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference31" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentInfos">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2572,836,172,206"/>
+        </reference>
+        <reference df-class-name="reference32" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermInfosWriter">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="697,2810,137,334"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosWriter:other">
+                <property name="sourceAnchor" value="807,3144"/>
+                <property name="bendpoints" value="807,3181,871,3181,871,3117"/>
+                <property name="targetAnchor" value="834,3117"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosWriter:lastTi">
+                <property name="sourceAnchor" value="752,3144"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="988,3480"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosWriter:lastTerm">
+                <property name="sourceAnchor" value="788,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1279,2244"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosWriter:fieldInfos">
+                <property name="sourceAnchor" value="742,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="986,2308"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference33" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermFreqVector">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2868,10,149,197"/>
+        </reference>
+        <reference df-class-name="reference34" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.MultiTermEnum">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="911,2810,177,190"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermEnum:term">
+                <property name="sourceAnchor" value="1029,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1291,2244"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermEnum:queue">
+                <property name="sourceAnchor" value="999,3000"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="780,3480"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.MultiTermEnum:com.progdan.searchengine.index.TermEnum">
+                <property name="sourceAnchor" value="970,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1146,2091"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference35" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.FieldInfos">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="930,1942,131,366"/>
+        </reference>
+        <reference df-class-name="reference36" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.MultiTermDocs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2172,2810,179,350"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:term">
+                <property name="sourceAnchor" value="2202,2810"/>
+                <property name="bendpoints" value="1375,2587"/>
+                <property name="targetAnchor" value="1375,2244"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:current">
+                <property name="sourceAnchor" value="2232,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2232,2155"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:readers">
+                <property name="sourceAnchor" value="2317,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2372,1842"/>
+                <reference referencedUin="linklabel:supplierCardinality:jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:readers">
+                    <property name="bounds" value="2341,1842,26,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:readerTermDocs">
+                <property name="sourceAnchor" value="2268,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2268,2155"/>
+                <reference referencedUin="linklabel:supplierCardinality:jdt:l_ast:src:com.progdan.searchengine.index.MultiTermDocs:readerTermDocs">
+                    <property name="bounds" value="2238,2155,26,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+            <reference referencedUin="jdt:l_impl:src:com.progdan.searchengine.index.MultiTermDocs:com.progdan.searchengine.index.TermDocs">
+                <property name="sourceAnchor" value="2284,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2284,2155"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference37" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.IndexReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2292,836,200,1006"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.IndexReader:segmentInfos">
+                <property name="sourceAnchor" value="2492,939"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2572,939"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference38" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.FilterIndexReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2612,1942,200,526"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.FilterIndexReader:in">
+                <property name="sourceAnchor" value="2678,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2467,1842"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.FilterIndexReader:com.progdan.searchengine.index.IndexReader">
+                <property name="sourceAnchor" value="2745,1942"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="2479,1842"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference39" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermPositions">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2048,2810,104,101"/>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.TermPositions:com.progdan.searchengine.index.TermDocs">
+                <property name="sourceAnchor" value="2117,2810"/>
+                <property name="bendpoints" value="2221,2737"/>
+                <property name="targetAnchor" value="2221,2155"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference40" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.SegmentTermEnum">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1108,2810,148,510"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentTermEnum:prev">
+                <property name="sourceAnchor" value="1231,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1316,2244"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentTermEnum:term">
+                <property name="sourceAnchor" value="1206,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1303,2244"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentTermEnum:termInfo">
+                <property name="sourceAnchor" value="1182,3320"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1005,3480"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.SegmentTermEnum:fieldInfos">
+                <property name="sourceAnchor" value="1144,2810"/>
+                <property name="bendpoints" value="1001,2730"/>
+                <property name="targetAnchor" value="1001,2308"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_gnt:src:com.progdan.searchengine.index.SegmentTermEnum:com.progdan.searchengine.index.TermEnum">
+                <property name="sourceAnchor" value="1181,2810"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1181,2091"/>
+            </reference>
+        </reference>
+        <reference df-class-name="reference41" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermInfo">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="948,3480,103,206"/>
+        </reference>
+        <reference df-class-name="reference42" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermInfosReader">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1443,2810,187,446"/>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:origEnum">
+                <property name="sourceAnchor" value="1443,3101"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1256,3101"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:indexInfos">
+                <property name="sourceAnchor" value="1536,3256"/>
+                <property name="bendpoints" value=""/>
+                <property name="targetAnchor" value="1041,3480"/>
+                <reference referencedUin="linklabel:supplierCardinality:jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:indexInfos">
+                    <property name="bounds" value="1011,3460,26,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:fieldInfos">
+                <property name="sourceAnchor" value="1489,2810"/>
+                <property name="bendpoints" value="1016,2668"/>
+                <property name="targetAnchor" value="1016,2308"/>
+                <property name="bounds_setted_by_user" value="true"/>
+            </reference>
+            <reference referencedUin="jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:indexTerms">
+                <property name="sourceAnchor" value="1536,2810"/>
+                <property name="bendpoints" value="1365,2598"/>
+                <property name="targetAnchor" value="1365,2244"/>
+                <property name="bounds_setted_by_user" value="true"/>
+                <reference referencedUin="linklabel:supplierCardinality:jdt:l_ast:src:com.progdan.searchengine.index.TermInfosReader:indexTerms">
+                    <property name="bounds" value="1335,2244,26,16"/>
+                    <property name="bounds_setted_by_user" value="true"/>
+                </reference>
+            </reference>
+        </reference>
+        <reference df-class-name="reference43" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.TermDocs">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="2211,1942,107,213"/>
+        </reference>
+        <reference df-class-name="reference44" referencedUin="jdt:e_class:src:com.progdan.searchengine.index.Term">
+            <property name="$shortcutReference" value="true"/>
+            <property name="bounds" value="1267,1942,118,302"/>
+        </reference>
+        <property name="$defaultDiagram" value=""/>
+    </view>
+</nodeSet>

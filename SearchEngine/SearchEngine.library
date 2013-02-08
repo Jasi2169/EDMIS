@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <!--JBuilder Library Definition File-->
+  <fullname>SearchEngine</fullname>
+  <class>
+    <path>[external/junit-3.8.1.jar]</path>
+  </class>
+  <lastmodsaved>1102009157453</lastmodsaved>
+</library>
