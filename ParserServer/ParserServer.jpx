@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="generalFormatting" name="baseCodeStyle" value="java/Java Standard.codestyle"/>
+  <property category="generalFormatting2" name="blockIndent" value="4"/>
+  <property category="generalFormatting2" name="continuationIndent" value="8"/>
+  <property category="generalFormatting2" name="overrideBasicFormatting" value="1"/>
+  <property category="javaFormatting" name="alignMultilineAssign" value="1"/>
+  <property category="javaFormatting" name="arrayInitDataOnNewLine" value="0"/>
+  <property category="javaFormatting" name="blankLinesAfterClass" value="2"/>
+  <property category="javaFormatting" name="catchOnNewLine" value="0"/>
+  <property category="javaFormatting" name="elseOnNewLine" value="0"/>
+  <property category="javaFormatting" name="extendsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="finallyOnNewLine" value="0"/>
+  <property category="javaFormatting" name="implementsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="indentCase" value="0"/>
+  <property category="javaFormatting" name="packagePrefixGroups" value="java;BLANK_LINE;javax;BLANK_LINE;(*)"/>
+  <property category="javaFormatting" name="packageThreshold" value="2"/>
+  <property category="javaFormatting" name="preservedBlankLinesInDecl" value="2"/>
+  <property category="javaFormatting" name="spaceBeforeLparen" value="0"/>
+  <property category="javaFormatting" name="whileOnNewLine" value="0"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="optimize.0" name="OptimizableType" value="intuitive.ide.borland.jb10.ProfilerBootstrap"/>
+  <property category="optimize.0" name="oicc.FilterFile" value="C:\Documents and Settings\ProgDan\My Documents\EDMIS\Source\IndexServer\IndexServer.oif"/>
+  <property category="optimize.0" name="oipr.FilterFile" value="C:\Documents and Settings\ProgDan\My Documents\EDMIS\Source\IndexServer\IndexServer.oif"/>
+  <property category="optimize.0" name="oira.FilterFile" value="C:\Documents and Settings\ProgDan\My Documents\EDMIS\Source\IndexServer\IndexServer.oif"/>
+  <property category="runtime" name="DefaultConfiguration" value="-1"/>
+  <property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+  <property category="runtime.0" name="ConfigurationName" value="Server"/>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+  <property category="runtime.0" name="application.class" value="com.progdan.parserserver.server.gui.ApplicationServer"/>
+  <property category="runtime.0" name="custom.init_required" value="0"/>
+  <property category="runtime.0" name="custom.required.1" value="JBCL"/>
+  <property category="runtime.0" name="custom.required.2" value="../LogEngine/LogEngine.jpx"/>
+  <property category="runtime.0" name="enable.tcpmonitor" value="0"/>
+  <property category="runtime.0" name="enable.wsimonitor" value="0"/>
+  <property category="runtime.0" name="tcpmonitor.listenport" value=""/>
+  <property category="runtime.0" name="tcpmonitor.targethost" value=""/>
+  <property category="runtime.0" name="tcpmonitor.targetport" value=""/>
+  <property category="runtime.0" name="wsimonitor.listenport" value=""/>
+  <property category="runtime.0" name="wsimonitor.logfile" value=""/>
+  <property category="runtime.0" name="wsimonitor.targethost" value=""/>
+  <property category="runtime.0" name="wsimonitor.targetport" value=""/>
+  <property category="serverservices" name="disabled.services" value="jdatastore"/>
+  <property category="serverservices" name="single.server.name" value=""/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value=""/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2005"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="src"/>
+  <property category="sys" name="Description" value=""/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="doc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="2"/>
+  <property category="sys" name="JDK" value="java version 1.4.2_04-b05"/>
+  <property category="sys" name="JvmVersion" value="1.2"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="JBCL;../EDMIS/external/mysql-connector-java-3.1.7-bin.jar;../LogEngine/LogEngine.jpx;../SearchEngine/SearchEngine.jpx;../DOC2TXT/DOC2TXT.jpx;../PDF2TXT/PDF2TXT.jpx;../RTF2TXT/RTF2TXT.jpx;../XLS2TXT/XLS2TXT.jpx"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="classes"/>
+  <property category="sys" name="SourcePath" value="src;test"/>
+  <property category="sys" name="TestPath" value="test"/>
+  <property category="sys" name="Title" value=""/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="sys" name="empty.packages.1" value="com"/>
+  <property category="sys" name="empty.packages.2" value="com.progdan"/>
+  <property category="sys" name="uidesign.size.com.progdan.parserserver.server.gui.DialogConfig" value="400,248"/>
+  <property category="sys" name="uidesign.size.com.progdan.parserserver.server.gui.DialogText" value="500,300"/>
+  <property category="team" name="ignorePath.0" value="bak"/>
+  <property category="team" name="ignorePath.1" value="classes"/>
+  <property category="team" name="ignorePath.2" value="doc"/>
+  <property category="team" name="ignorePath.3" value=".localdata"/>
+  <property category="team" name="ignorePath.4" value="bak"/>
+  <property category="team" name="ignorePath.5" value="classes"/>
+  <property category="team" name="ignorePath.6" value="doc"/>
+  <node name="ParserServer" type="Archive">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ExecutableJarArchiver"/>
+    <property category="archiving" name="executableEnabled.1" value="1"/>
+    <property category="archiving" name="executableEnabled.2" value="1"/>
+    <property category="archiving" name="executableEnabled.3" value="0"/>
+    <property category="archiving" name="executableEnabled.4" value="0"/>
+    <property category="archiving" name="executableEnabled.5" value="0"/>
+    <property category="archiving" name="executableFiles.1" value="ParserServer.exe"/>
+    <property category="archiving" name="executableFiles.2" value="ParserServerConsole.exe"/>
+    <property category="archiving" name="executableFiles.3" value="IndexServer2-linux"/>
+    <property category="archiving" name="executableFiles.4" value="IndexServer2-solaris"/>
+    <property category="archiving" name="executableFiles.5" value="IndexServer2-mac"/>
+    <property category="archiving" name="manifestConfigFile" value="0"/>
+    <property category="archiving" name="sourceJar" value="IndexServer.jar"/>
+    <property category="archiving" name="targetCompressed" value="1"/>
+    <property category="archiving" name="targetPath" value="IndexServer2.jar"/>
+  </node>
+  <node name="Parser Server" type="Archive">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver"/>
+    <property category="archiving" name="includeAll" value="1"/>
+    <property category="archiving" name="libraryStates.1" value="3:JBCL"/>
+    <property category="archiving" name="libraryStates.10" value="3:../PDF2TXT/PDF2TXT.jpx"/>
+    <property category="archiving" name="libraryStates.11" value="3:../PDF2TXT/PDF2TXT.jpx*PDF2TXT"/>
+    <property category="archiving" name="libraryStates.12" value="3:../RTF2TXT/RTF2TXT.jpx"/>
+    <property category="archiving" name="libraryStates.13" value="3:../XLS2TXT/XLS2TXT.jpx"/>
+    <property category="archiving" name="libraryStates.2" value="3:../EDMIS/external/mysql-connector-java-3.1.7-bin.jar"/>
+    <property category="archiving" name="libraryStates.3" value="3:../LogEngine/LogEngine.jpx"/>
+    <property category="archiving" name="libraryStates.4" value="3:../LogEngine/LogEngine.jpx*LogEngine"/>
+    <property category="archiving" name="libraryStates.5" value="3:../SearchEngine/SearchEngine.jpx"/>
+    <property category="archiving" name="libraryStates.6" value="3:../SearchEngine/SearchEngine.jpx*SearchEngine"/>
+    <property category="archiving" name="libraryStates.7" value="3:../DOC2TXT/DOC2TXT.jpx"/>
+    <property category="archiving" name="libraryStates.8" value="3:../DOC2TXT/DOC2TXT.jpx*../DOC2TXT/external/poi-2.5.1-final-20040804.jar"/>
+    <property category="archiving" name="libraryStates.9" value="3:../DOC2TXT/DOC2TXT.jpx*../DOC2TXT/external/tm-extractors-0.4.jar"/>
+    <property category="archiving" name="manifestConfigFile" value="0"/>
+    <property category="archiving" name="obfuscator" value="RetroGuard for J2ME"/>
+    <property category="archiving" name="targetCompressed" value="1"/>
+    <property category="archiving" name="targetPath" value="IndexServer.jar"/>
+    <property category="archiving" name="usingRules" value="1"/>
+  </node>
+</project>
