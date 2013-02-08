@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+  <property category="generalFormatting" name="baseCodeStyle" value="java/Java Standard.codestyle"/>
+  <property category="generalFormatting2" name="blockIndent" value="4"/>
+  <property category="generalFormatting2" name="continuationIndent" value="8"/>
+  <property category="generalFormatting2" name="overrideBasicFormatting" value="1"/>
+  <property category="javaFormatting" name="alignMultilineAssign" value="1"/>
+  <property category="javaFormatting" name="arrayInitDataOnNewLine" value="0"/>
+  <property category="javaFormatting" name="blankLinesAfterClass" value="2"/>
+  <property category="javaFormatting" name="catchOnNewLine" value="0"/>
+  <property category="javaFormatting" name="elseOnNewLine" value="0"/>
+  <property category="javaFormatting" name="extendsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="finallyOnNewLine" value="0"/>
+  <property category="javaFormatting" name="implementsOnNewLine" value="0"/>
+  <property category="javaFormatting" name="indentCase" value="0"/>
+  <property category="javaFormatting" name="packagePrefixGroups" value="java;BLANK_LINE;javax;BLANK_LINE;(*)"/>
+  <property category="javaFormatting" name="packageThreshold" value="0"/>
+  <property category="javaFormatting" name="preservedBlankLinesInDecl" value="2"/>
+  <property category="javaFormatting" name="spaceBeforeLparen" value="0"/>
+  <property category="javaFormatting" name="whileOnNewLine" value="0"/>
+  <property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+  <property category="module" name="ProjectConvertedToEnsureModulesHaveSupportedFeatures" value="1"/>
+  <property category="module" name="ProjectConvertedToUseFilesAndDependenciesAsDefaultContent" value="1"/>
+  <property category="module" name="ProjectConvertedToUseProperModuleDefaults" value="1"/>
+  <property category="module" name="projectConvertedFromModuleExtensionsToModuleFileTypes" value="1"/>
+  <property category="runtime" name="DefaultConfiguration" value="-1"/>
+  <property category="runtime" name="ExcludeDefaultForZero" value="1"/>
+  <property category="serverservices" name="disabled.services" value="jdatastore;sqlj"/>
+  <property category="serverservices" name="single.server.name" value="Tomcat 5.0"/>
+  <property category="sys" name="AuthorLabel" value="@author"/>
+  <property category="sys" name="BackupPath" value="bak"/>
+  <property category="sys" name="CheckStable" value="1"/>
+  <property category="sys" name="Company" value="ProgDan\u00ae Software"/>
+  <property category="sys" name="CompanyLabel" value="Company:"/>
+  <property category="sys" name="Copyright" value="Copyright (c) 2004"/>
+  <property category="sys" name="CopyrightLabel" value="Copyright:"/>
+  <property category="sys" name="DefaultPath" value="src"/>
+  <property category="sys" name="Description" value="Component to FileUpload"/>
+  <property category="sys" name="DescriptionLabel" value="Description:"/>
+  <property category="sys" name="DocPath" value="javadoc"/>
+  <property category="sys" name="ExcludeClassEnabled" value="0"/>
+  <property category="sys" name="IncludeTestPath" value="1"/>
+  <property category="sys" name="InstanceVisibility" value="2"/>
+  <property category="sys" name="JDK" value="java version 1.4.2_04-b05"/>
+  <property category="sys" name="JvmVersion" value="1.2"/>
+  <property category="sys" name="LastTag" value="0"/>
+  <property category="sys" name="Libraries" value="FileUpload;Servlet"/>
+  <property category="sys" name="MakeStable" value="0"/>
+  <property category="sys" name="OutPath" value="classes"/>
+  <property category="sys" name="SourcePath" value="src;test"/>
+  <property category="sys" name="TestPath" value="test"/>
+  <property category="sys" name="Title" value="FileUpload"/>
+  <property category="sys" name="TitleLabel" value="Title:"/>
+  <property category="sys" name="Version" value="1.0"/>
+  <property category="sys" name="VersionLabel" value="@version"/>
+  <property category="sys" name="WorkingDirectory" value="."/>
+  <property category="team" name="ignorePath.0" value="FileUpload/WEB-INF/lib"/>
+  <property category="team" name="ignorePath.1" value="bak"/>
+  <property category="team" name="ignorePath.2" value="classes"/>
+  <property category="team" name="ignorePath.3" value="javadoc"/>
+  <property category="team" name="ignorePath.4" value="javadoc"/>
+  <property category="webModule" name="last.wizard.module.name" value="FileUpload"/>
+  <node name="FileUpload" type="WebModuleNode">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.enterprise.module.web.WebModuleArchiver"/>
+    <property category="archiving" name="contentRules.1" value="i:sar"/>
+    <property category="archiving" name="contentRules.10" value="i:opentools"/>
+    <property category="archiving" name="contentRules.11" value="i:png"/>
+    <property category="archiving" name="contentRules.12" value="i:properties"/>
+    <property category="archiving" name="contentRules.13" value="i:au"/>
+    <property category="archiving" name="contentRules.14" value="i:txt"/>
+    <property category="archiving" name="contentRules.15" value="i:ram"/>
+    <property category="archiving" name="contentRules.16" value="i:css"/>
+    <property category="archiving" name="contentRules.17" value="i:wml"/>
+    <property category="archiving" name="contentRules.18" value="i:xmi"/>
+    <property category="archiving" name="contentRules.19" value="i:xml"/>
+    <property category="archiving" name="contentRules.2" value="i:gif"/>
+    <property category="archiving" name="contentRules.20" value="i:xul"/>
+    <property category="archiving" name="contentRules.21" value="i:xsl"/>
+    <property category="archiving" name="contentRules.3" value="i:html"/>
+    <property category="archiving" name="contentRules.4" value="i:class"/>
+    <property category="archiving" name="contentRules.5" value="i:jnlp"/>
+    <property category="archiving" name="contentRules.6" value="i:js"/>
+    <property category="archiving" name="contentRules.7" value="i:jpg"/>
+    <property category="archiving" name="contentRules.8" value="i:jsp"/>
+    <property category="archiving" name="contentRules.9" value="i:tld"/>
+    <property category="archiving" name="defaultLibraryState" value="3"/>
+    <property category="archiving" name="includeDeps" value="1"/>
+    <property category="archiving" name="libraryStates.1" value="0:Servlet"/>
+    <property category="archiving" name="libraryStates.2" value="0:Tomcat 5.0 Servlet"/>
+    <property category="archiving" name="outPathState" value="4"/>
+    <property category="archiving" name="targetPath" value="FileUpload.war"/>
+    <property category="archiving" name="usingRules" value="1"/>
+    <property category="module" name="buildModuleArchiveWithModuleNode" value="0"/>
+    <property category="module" name="buildModuleArchiveWithProject" value="0"/>
+    <property category="module" name="directory" value="FileUpload"/>
+    <property category="module" name="extraDefaultDirectoriesToKeepOnClean.1" value=".cvsignore"/>
+    <property category="module" name="lastServer" value="Tomcat 5.0"/>
+    <property category="module" name="nodeJBuilderVersion" value="JBuilder 200"/>
+    <property category="module" name="supported.features.1" value="Servlet 2.4"/>
+    <property category="module" name="supported.features.2" value="JSP 2.0"/>
+    <property category="module" name="useModuleSpecificJavaFileNodesToBuild" value="1"/>
+    <property category="web" name="context-root" value="FileUpload"/>
+    <property category="webModule" name="launch.uri" value="/"/>
+  </node>
+</project>
